@@ -41,13 +41,19 @@ class Mp2Client:
         try:
             cursor = self.conn.cursor()
             # Create a new guest user
-            cursor.execute("INSERT INTO Users (current_query_count, max_query_limit) VALUES (0, 10000) RETURNING user_id")
+            cursor.execute("INSERT INTO users (current_query_count, max_query_limit) VALUES (0, 10000) RETURNING user_id")
             user_id = cursor.fetchone()[0]
             self.conn.commit()
             # Create User object
             self.user = User(user_id=str(user_id), current_query_count=0, max_query_limit=10000)
-        except Exception:
+            
+            #debug 
+            print(f"Guest user created with ID: {user_id}")
+        except Exception as e:
             self.conn.rollback()
+ 
+            #debug
+            print(f"Error creating guest user: {e}")
         finally:
             self.disconnect()
         
@@ -91,23 +97,23 @@ class Mp2Client:
         - If the admin_id already exists, return tuple (False, USERNAME_EXISTS).
         - If any exception occurs; rollback, do nothing on the database and return tuple (False, CMD_EXECUTION_FAILED).
     """
+
+    #todo
     def sign_up(self, admin_id, password, level_id):
         self.connect()
         try:
-            # First check if the level_id exists
+            level_id = int(level_id)  # Ensure level_id is int
             cursor = self.conn.cursor()
-            cursor.execute("SELECT level_id FROM AccessLevel WHERE level_id = %s", (level_id,))
+            cursor.execute("SELECT level_id FROM accesslevels WHERE level_id = %s", (level_id,))
             if cursor.fetchone() is None:
                 return False, CMD_EXECUTION_FAILED
             
-            # Check if admin_id already exists
-            cursor.execute("SELECT admin_id FROM Administrator WHERE admin_id = %s", (admin_id,))
+            cursor.execute("SELECT admin_id FROM administrators WHERE admin_id = %s", (admin_id,))
             if cursor.fetchone() is not None:
                 return False, USERNAME_EXISTS
             
-            # Insert new admin
             cursor.execute(
-                "INSERT INTO Administrator (admin_id, password, session_count, level_id) VALUES (%s, %s, 0, %s)",
+                "INSERT INTO administrators (admin_id, password, session_count, level_id) VALUES (%s, %s, 0, %s)",
                 (admin_id, password, level_id)
             )
             self.conn.commit()
@@ -127,9 +133,76 @@ class Mp2Client:
         - If any exception occurs; rollback, do nothing on the database and return tuple (None, USER_SIGNIN_FAILED).
         - Do not forget the remove the guest user.
     """
+
     def sign_in(self, admin_id, password):
-        # TODO: Implement this function
-        return None, CMD_EXECUTION_FAILED
+        self.connect()
+        try:
+            cursor = self.conn.cursor()
+            
+
+            # First check if admin exists at all
+            cursor.execute("SELECT admin_id, password, level_id FROM administrators WHERE admin_id = %s", (admin_id,))
+            admin_row = cursor.fetchone()
+            
+            if admin_row is None:
+                return None, USER_SIGNIN_FAILED
+            
+            # Check if password matches
+            if admin_row[1] != password:
+                return None, USER_SIGNIN_FAILED
+            
+            # Check accesslevels join
+            cursor.execute("SELECT * FROM accesslevels WHERE level_id = %s", (admin_row[2],))
+            level_row = cursor.fetchone()
+            
+            if level_row is None:
+                return None, USER_SIGNIN_FAILED
+            
+            # Now do the full query
+            query = """
+                SELECT a.admin_id, a.level_id, a.session_count, l.max_parallel_sessions 
+                FROM administrators a
+                JOIN accesslevels l ON a.level_id = l.level_id
+                WHERE a.admin_id = %s AND a.password = %s
+            """
+            cursor.execute(query, (admin_id, password))
+            admin_data = cursor.fetchone()
+            
+            if admin_data is None:
+                return None, USER_SIGNIN_FAILED
+            
+            # Unpack admin data
+            admin_id, level_id, session_count, max_sessions = admin_data
+            
+            # Check if session limit reached
+            if session_count >= max_sessions:
+                return None, USER_ALL_SESSIONS_ARE_USED
+            
+            # Increment session count atomically
+            cursor.execute("""
+                UPDATE administrators 
+                SET session_count = session_count + 1 
+                WHERE admin_id = %s
+            """, (admin_id,))
+            
+            # Remove guest user if exists
+            if self.user is not None:
+                user_id = self.user.user_id
+                cursor.execute("DELETE FROM users WHERE user_id = %s", (user_id,))
+                self.user = None
+    
+            # Create Administrator object
+            admin = Administrator(admin_id, level_id)
+            
+            self.conn.commit()
+            return admin, CMD_EXECUTION_SUCCESS
+            
+        except Exception as e:
+            self.conn.rollback()
+            return None, USER_SIGNIN_FAILED
+        finally:
+            self.disconnect()
+
 
 
     """
@@ -143,7 +216,36 @@ class Mp2Client:
     """
     def sign_out(self, admin):
         # TODO: Implement this function
-        return False, CMD_EXECUTION_FAILED
+        self.connect()
+        try:
+            # Check if an admin is signed in
+            if admin is None:
+                return False, NO_ACTIVE_ADMIN
+            
+            cursor = self.conn.cursor()
+            
+            # Decrement session count atomically (prevent it going below 0)
+            cursor.execute("""
+                UPDATE administrators 
+                SET session_count = GREATEST(0, session_count - 1)
+                WHERE admin_id = %s
+            """, (admin.admin_id,))
+            
+            # Create a new guest user
+            cursor.execute("INSERT INTO users (current_query_count, max_query_limit) VALUES (0, 10000) RETURNING user_id")
+            user_id = cursor.fetchone()[0]
+            
+            # Create User object
+            self.user = User(user_id=str(user_id), current_query_count=0, max_query_limit=10000)
+            
+            self.conn.commit()
+            return True, CMD_EXECUTION_SUCCESS
+            
+        except Exception as e:
+            self.conn.rollback()
+            return False, CMD_EXECUTION_FAILED
+        finally:
+            self.disconnect()
 
 
     """
@@ -155,8 +257,31 @@ class Mp2Client:
         - If not authenticated, do not forget to remove the guest user.
     """
     def quit(self, admin):
-        # TODO: Implement this function
-        return False, CMD_EXECUTION_FAILED
+        self.connect()
+        try:
+            cursor = self.conn.cursor()
+            
+            # If admin is signed in, sign them out first
+            if admin is not None:
+                cursor.execute("""
+                    UPDATE administrators 
+                    SET session_count = GREATEST(0, session_count - 1)
+                    WHERE admin_id = %s
+                """, (admin.admin_id,))
+            
+            # Remove the guest user if it exists
+            if self.user is not None:
+                cursor.execute("DELETE FROM users WHERE user_id = %s", (self.user.user_id,))
+                self.user = None
+                
+            self.conn.commit()
+            return True, CMD_EXECUTION_SUCCESS
+            
+        except Exception as e:
+            self.conn.rollback()
+            return False, CMD_EXECUTION_FAILED
+        finally:
+            self.disconnect()
 
 
     """

@@ -1,0 +1,3411 @@
+name,code,population,elevation
+Tirana,AL,418495,110
+ShkodÃ«r,AL,77075,13
+DurrÃ«s,AL,113249,40
+VlorÃ«,AL,79513,25
+Elbasan,AL,78703,150
+KorÃ§Ã«,AL,51152,850
+Komotini,GR,,45
+Kavala,GR,58790,20
+Athina,GR,664046,70
+Peiraias,GR,163688,10
+Peristeri,GR,139981,50
+Acharnes,GR,106943,186
+Patra,GR,213984,10
+Kozani,GR,,710
+Kerkyra,GR,,20
+Ioannina,GR,112486,480
+Thessaloniki,GR,325182,5
+Iraklio,GR,173993,10
+Chania,GR,108642,20
+Ermoupoli,GR,,20
+Rhodes,GR,115490,26
+Tripoli,GR,,655
+Lamia,GR,75315,50
+Chalkida,GR,102223,5
+Larissa,GR,162591,67
+Volos,GR,144449,5
+Mytilini,GR,,8
+Karyes,GR,233,370
+Nicosia,CY,55014,220
+Larnaka,CY,51468,10
+Lemesos,CY,101000,
+Episkopi Cantonment,AD,,30
+Skopje,MK,422540,240
+Kumanovo,MK,75051,340
+Beograd,SRB,1166763,117
+Novi Sad,SRB,231798,72
+Kragujevac,SRB,150835,18095
+NiÅ¡,SRB,183164,195
+Podgorica,MNE,150977,48
+Prishtine,KOS,198214,652
+Andorra la Vella,AND,19659,1023
+Paris,F,2249975,28
+Boulogne-Billancourt,F,116220,28
+Argenteuil,F,104282,21
+Montreuil,F,103068,52
+Saint-Denis,F,111354,23
+Clermont-Ferrand,F,140957,321
+Lyon,F,491268,162
+Grenoble,F,157424,212
+Saint-Ã‰tienne,F,170049,422
+Villeurbanne,F,145034,165
+Bordeaux,F,239399,10
+Limoges,F,137758,209
+Lille,F,227533,17
+Amiens,F,133327,14
+Calais,F,75293,6
+Marseille,F,850636,10
+Nice,F,344064,10
+Toulon,F,163974,10
+Aix-en-Provence,F,140684,73
+Rennes,F,208033,20
+Brest,F,140547,10
+OrlÃ©ans,F,114185,90
+Tours,F,134633,44
+Nantes,F,287845,5
+Angers,F,148803,12
+Le Mans,F,143240,38
+Strasbourg,F,272222,132
+Mulhouse,F,110351,232
+Metz,F,119962,162
+Nancy,F,105382,188
+Reims,F,180752,80
+Rouen,F,111553,2
+Le Havre,F,174156,5
+Caen,F,108793,5
+Dijon,F,151672,220
+BesanÃ§on,F,115879,235
+Toulouse,F,447340,115
+Montpellier,F,264538,7
+NÃ®mes,F,144940,21
+Perpignan,F,118238,8
+Ajaccio,F,66245,20
+Sevilla,E,684340,12
+AlmerÃ­a,E,200273,27
+CÃ¡diz,E,114442,11
+CÃ³rdoba,E,322327,120
+Granada,E,233680,738
+Huelva,E,142668,54
+MÃ¡laga,E,578063,11
+Jerez de la Frontera,E,213616,56
+JaÃ©n,E,111915,573
+Algeciras,E,123435,20
+Marbella,E,149032,27
+Dos Hermanas,E,136296,42
+Zaragoza,E,681430,243
+Oviedo,E,217164,232
+GijÃ³n,E,269311,14
+Palma de Mallorca,E,424837,13
+Vitoria-Gasteiz,E,252953,525
+Bilbao,E,345749,19
+Barakaldo,E,100847,39
+Donostia,E,187892,6
+Santa Cruz de Tenerife,E,208103,4
+San CristÃ³bal de La Laguna,E,158117,543
+Las Palmas de Gran Canaria,E,380667,8
+Telde,E,103175,130
+Santander,E,172000,15
+Valladolid,E,297370,698
+Burgos,E,174154,859
+LeÃ³n,E,122398,837
+Salamanca,E,143549,802
+Toledo,E,,529
+Albacete,E,172806,686
+Barcelona,E,1627559,12
+Lleida,E,138933,155
+Girona,E,101648,70
+Tarragona,E,136150,68
+Reus,E,105981,134
+Hospitalet de Llobregat,E,265003,8
+Badalona,E,221750,12
+Sabadell,E,216759,190
+Terrassa,E,222576,286
+Santa Coloma de Gramenet,E,118489,56
+MatarÃ³,E,129749,28
+Badajoz,E,151048,185
+Merida,E,,217
+A CoruÃ±a,E,245541,21
+Vigo,E,294650,62
+Ourense,E,104578,132
+Santiago de Compostela,E,,260
+Madrid,E,3277451,667
+MÃ³stoles,E,208632,620
+LeganÃ©s,E,188687,666.22
+AlcalÃ¡ de Henares,E,195570,588
+Fuenlabrada,E,192612,664
+Getafe,E,183872,622
+AlcorcÃ³n,E,171575,695
+TorrejÃ³n de Ardoz,E,133377,568
+Parla,E,130550,648.5
+Alcobendas,E,116895,700
+Murcia,E,459778,43
+Cartagena,E,215826,10
+Pamplona,E,203596,446
+LogroÃ±o,E,150596,384
+Valencia,E,788842,15
+Alicante,E,336768,5
+Elche,E,235566,86
+CastellÃ³n de la Plana,E,172637,30
+Praha,CZ,1301432,399
+ÄŒeskÃ© BudÄ›jovice,CZ,95664,381
+Brno,CZ,398510,237
+Karlovy Vary,CZ,44323,447
+Jihlava,CZ,50523,525
+Hradec KrÃ¡lovÃ©,CZ,92649,235
+Liberec,CZ,104340,374
+Ostrava,CZ,282450,335
+Olomouc,CZ,106063,219
+Pardubice,CZ,89619,237
+PlzeÅˆ,CZ,174007,308
+ÃšstÃ­ nad Labem,CZ,89713,218
+ZlÃ­n,CZ,74178,230
+Bratislava,SK,475503,134
+BanskÃ¡ Bystrica,SK,76018,362
+Å½ilina,SK,82656,342
+KoÅ¡ice,SK,229040,206
+PreÅ¡ov,SK,84824,250
+Nitra,SK,78489,190
+TrenÄÃ­n,SK,54740,211
+Trnava,SK,63803,146
+Stuttgart,D,585890,247
+Mannheim,D,290117,97
+Karlsruhe,D,289173,115
+Freiburg,D,209628,278
+Heidelberg,D,146751,114
+Heilbronn,D,116059,157
+Pforzheim,D,114411,261
+Ulm,D,116761,478
+Reutlingen,D,109799,382
+MÃ¼nchen,D,1348335,519
+NÃ¼rnberg,D,486314,309
+Augsburg,D,267767,494
+WÃ¼rzburg,D,124297,177
+Regensburg,D,135403,337
+Ingolstadt,D,124927,374
+FÃ¼rth,D,115613,294
+Erlangen,D,103719,279
+Berlin,D,3292365,34
+Potsdam,D,156021,32
+Cottbus,D,99984,75
+Bremen,D,542707,11
+Bremerhaven,D,108156,2
+Hamburg,D,1706696,6
+Wiesbaden,D,269121,117
+Frankfurt,D,667925,112
+Kassel,D,190765,167
+Darmstadt,D,143499,144
+Offenbach am Main,D,113443,98
+Schwerin,D,91293,44
+Rostock,D,200265,14
+Hannover,D,506416,55
+Braunschweig,D,242537,75
+OsnabrÃ¼ck,D,153699,63
+Oldenburg,D,157267,5
+GÃ¶ttingen,D,115843,150
+Wolfsburg,D,119984,63
+Salzgitter,D,98895,90
+Hildesheim,D,99554,81
+DÃ¼sseldorf,D,586291,38
+KÃ¶ln,D,1005775,53
+Essen,D,566201,116
+Dortmund,D,571143,86
+Duisburg,D,488468,33
+Bochum,D,362286,100
+Wuppertal,D,342661,160
+Bielefeld,D,326870,118
+Gelsenkirchen,D,258766,48
+Bonn,D,305765,60
+MÃ¶nchengladbach,D,255188,70
+MÃ¼nster,D,289576,60
+Krefeld,D,222247,38
+Aachen,D,236420,173
+Oberhausen,D,210216,35
+Hagen,D,187944,106
+Hamm,D,176037,63
+Herne,D,155160,65
+MÃ¼lheim,D,166865,40
+Solingen,D,155265,221
+Leverkusen,D,158984,60
+Neuss,D,150568,40
+Paderborn,D,142365,110
+Recklinghausen,D,115958,85
+Remscheid,D,110708,365
+Bottrop,D,117311,55
+Siegen,D,99187,267
+Moers,D,104009,30
+Witten,D,96382,104
+Bergisch Gladbach,D,108878,100
+Mainz,D,200344,89
+Ludwigshafen,D,157584,95
+Koblenz,D,107825,73
+Kaiserslautern,D,96340,251
+Trier,D,105671,137
+SaarbrÃ¼cken,D,175853,230
+Dresden,D,512354,112
+Leipzig,D,502979,113
+Chemnitz,D,240253,298
+Zwickau,D,93081,267
+Magdeburg,D,228144,55
+Halle,D,229153,88
+Kiel,D,235782,5
+LÃ¼beck,D,210305,13
+Erfurt,D,200868,194
+Gera,D,96067,194
+Jena,D,105739,143
+PÃ©cs,H,156049,153
+KecskemÃ©t,H,111411,105
+BÃ©kÃ©scsaba,H,62050,89
+Miskolc,H,167754,131
+Szeged,H,168048,75
+HÃ³dmezÅ‘vÃ¡sÃ¡rhely,H,,
+SzÃ©kesfehÃ©rvÃ¡r,H,100570,118
+GyÅ‘r,H,129527,108
+Debrecen,H,211320,121
+Eger,H,56569,165
+TatabÃ¡nya,H,67753,167
+SalgÃ³tarjÃ¡n,H,,299
+KaposvÃ¡r,H,66245,153
+NyÃ­regyhÃ¡za,H,119746,116
+Szolnok,H,72953,68
+SzekszÃ¡rd,H,,83
+Szombathely,H,78884,209
+VeszprÃ©m,H,61721,266
+Zalaegerszeg,H,59499,166
+Budapest,H,1729040,102
+Novara,I,101952,162
+Torino,I,872367,239
+Aosta,I,34102,583
+BÃ©rgamo,I,115349,249
+BrÃ©scia,I,189902,149
+Milano,I,1242123,120
+Monza,I,119856,162
+Bolzano,I,102575,262
+Trento,I,114198,190
+PÃ¡dova,I,206192,12
+Verona,I,252520,59
+Vicenza,I,111500,39
+VenÃ©zia,I,261362,1
+Trieste,I,202123,2
+La Spezia,I,92659,10
+GÃ©nova,I,586180,20
+Bologna,I,371337,54
+Ferrara,I,132545,9
+ForlÃ­,I,116434,34
+MÃ³dena,I,179149,34
+Parma,I,175895,55
+Piacenza,I,100311,61
+Ravenna,I,153740,4
+Reggio nell''Emilia,I,162082,58
+RÃ­mini,I,139601,6
+Livorno,I,157052,3
+Pisa,I,85858,4
+Firenze,I,358079,50
+Prato,I,185456,65
+PerÃºgia,I,162449,493
+Terni,I,109193,130
+Ancona,I,100497,16
+Roma,I,2617175,21
+Latina,I,117892,21
+Pescara,I,117166,4
+L''Aquila,I,66964,714
+Campobasso,I,48747,701
+Salerno,I,132608,4
+NÃ¡poli,I,962003,17
+Torre del Greco,I,85922,
+Giugliano in Campania,I,108793,
+Bari,I,315933,5
+FÃ³ggia,I,147036,76
+Lecce,I,89916,49
+Andria,I,100052,151
+TÃ¡ranto,I,200154,15
+Potenza,I,66777,819
+Catanzaro,I,89364,342
+Cosenza,I,69484,238
+RÃ©ggio di Calabria,I,180817,31
+Palermo,I,657561,14
+Messina,I,243262,3
+CatÃ¡nia,I,293902,7
+Siracusa,I,118385,17
+CÃ¡gliari,I,149883,4
+SÃ¡ssari,I,123782,225
+Aarau,CH,,381
+Herisau,CH,,771
+Appenzell,CH,,780
+Liestal,CH,,327
+Basel,CH,173863,260
+Bern,CH,134794,542
+Biel,CH,55206,434
+Fribourg,CH,,610
+GenÃ¨ve,CH,203856,375
+Glarus,CH,,472
+Chur,CH,,593
+Delemont,CH,,435
+Luzern,CH,82620,436
+Neuchatel,CH,,430
+Stans,CH,,452
+Sarnen,CH,,473
+Sankt Gallen,CH,76213,675
+Schaffhausen,CH,,403
+Schwyz,CH,,516
+Solothurn,CH,,430
+Frauenfeld,CH,,417
+Bellinzona,CH,,238
+Lugano,CH,62315,273
+Altdorf,CH,,458
+Sion,CH,,500
+Lausanne,CH,140202,495
+Zug,CH,,425
+ZÃ¼rich,CH,421878,408
+Winterthur,CH,114220,439
+Vaduz,FL,5741,455
+Eisenstadt,A,13101,182
+Klagenfurt,A,94483,446
+Villach,A,59324,501
+Bregenz,A,27831,427
+Dornbirn,A,45922,437
+Wien,A,1714227,151
+Linz,A,189889,266
+Wels,A,58591,317
+Innsbruck,A,119617,574
+Lienz,A,11761,673
+Graz,A,261726,353
+Salzburg,A,145270,424
+St. PÃ¶lten,A,51955,267
+Tallinn,EST,437817,9
+Tartu,EST,95190,57.2
+RÄ«ga,LV,696618,7
+Vilnius,LT,546155,112
+Kaunas,LT,298753,48
+Klaipeda,LT,152008,21
+Brest,BY,309764,280.4
+Baranavichy,BY,168240,193
+Pinsk,BY,130355,141
+Vitebsk,BY,355062,172
+Orsha,BY,117225,192
+Novopolotsk,BY,104080,133
+Gomel,BY,492136,138
+Mazyr,BY,108792,160
+Grodno,BY,327540,137
+Mahiljou,BY,358279,192
+Bobruysk,BY,215092,157
+Barysaw,BY,147381,169
+Minsk,BY,1836808,280.6
+WrocÅ‚aw,PL,672929,105
+Legnica,PL,94878,113
+WaÅ‚brzych,PL,104401,350
+Bydgoszcz,PL,337666,60
+ToruÅ„,PL,198273,65
+Grudziadz,PL,90890,50
+WÅ‚ocÅ‚awek,PL,104705,
+Lublin,PL,334681,168
+Zielona GÃ³ra,PL,140002,71
+GorzÃ³w Wielkopolski,PL,119964,19
+ÅÃ³dÅº,PL,670642,162
+KrakÃ³w,PL,800653,219
+TarnÃ³w,PL,106259,190
+Warszawa,PL,1860281,78
+PÅ‚ock,PL,114594,60
+Radom,PL,201601,130
+Opole,PL,127387,176
+RzeszÃ³w,PL,195871,221
+BiaÅ‚ystok,PL,294242,120
+GdaÅ„sk,PL,486022,3
+Gdynia,PL,245222,3
+Katowice,PL,285711,266
+Sosnowiec,PL,193660,250
+DÄ…browa GÃ³rnicza,PL,116930,
+Bytom,PL,153274,249
+Gliwice,PL,174016,200
+Zabrze,PL,158307,
+Tychy,PL,124882,
+Ruda ÅšlÄ…ska,PL,133793,272
+Rybnik,PL,133772,210
+ChorzÃ³w,PL,104193,352
+CzÄ™stochowa,PL,213107,
+Bielsko-BiaÅ‚a,PL,169089,300
+Kielce,PL,186894,260
+Olsztyn,PL,170225,90
+ElblÄ…g,PL,115220,10
+PoznaÅ„,PL,546859,60
+Kalisz,PL,95905,144
+Szczecin,PL,396168,1
+Koszalin,PL,105883,32
+Cerkasy,UA,272651,110
+Cernihiv,UA,285234,136
+Cernivci,UA,265471,248
+Charkiv,UA,1433886,152
+Cherson,UA,283649,43
+Chmelnytskyi,UA,274582,275
+Dnipro,UA,980948,155
+Kryvyi Rih,UA,612750,84
+Kamianske,UA,229794,120
+Nikopol,UA,107464,51
+Pavlohrad,UA,103073,60
+Donetsk,UA,905364,169
+Mariupol,UA,431859,22
+MakiÃ¯vka,UA,340337,169
+Horlivka,UA,241106,215
+Kramatorsk,UA,150084,
+Sloviansk,UA,106972,
+Ivano-Frankivsk,UA,237855,244
+Bila Tserkva,UA,208737,148
+Brovary,UA,109473,
+Prypjat,UA,0,120
+Kropywnyzkyj,UA,222695,124
+Luhansk,UA,399559,105
+Sievierodonetsk,UA,101135,71
+Lysychansk,UA,95031,145
+Alchevsk,UA,106550,240
+Lviv,UA,721510,296
+MykolaÃ¯v,UA,476101,42
+Odesa,UA,1015826,40
+Poltava,UA,283402,132
+Kremenchuk,UA,217710,80
+Rivne,UA,245289,136
+Sumy,UA,259660,166
+Ternopil,UA,223938,320
+Vinnytsia,UA,370601,
+Lutsk,UA,217197,174
+Uzhhorod,UA,115542,169
+Zaporizhzhia,UA,722713,86
+Melitopol,UA,150768,
+Berdiansk,UA,107928,10
+Zytomyr,UA,263507,221
+Simferopol,UA,336212,350
+Kerch,UA,151996,10
+Yevpatoria,UA,108149,10
+KyÃ¯v,UA,2962180,179
+Sevastopol,UA,464349,100
+Petrozavodsk,R,234897,60
+Syktyvkar,R,220580,130
+Ukhta,R,99591,100
+Vorkuta,R,70548,180
+Arkhangelsk,R,301199,5
+Severodvinsk,R,157213,7
+Vologda,R,313944,120
+Cherepovets,R,305185,130
+Murmansk,R,270384,50
+Kaliningrad,R,490449,
+Sankt Peterburg,R,5601911,3
+Gatchina,R,94377,100
+Velikij Novgorod,R,224286,25
+Pskov,R,193082,45
+Bryansk,R,379152,190
+Vladimir,R,349951,150
+Kovrov,R,132417,125
+Murom,R,107497,115
+Ivanovo,R,408330,120
+Kaluga,R,337058,190
+Obninsk,R,125376,175
+Kostroma,R,267481,110
+Moskva,R,13010112,156
+Odincovo,R,180530,190
+Krasnogorsk,R,187634,150
+Chimki,R,257128,180
+Dolgoprudny,R,120907,180
+MytiÅ¡Äi,R,255429,150
+KorolÃ«v,R,228095,160
+PuÅ¡kino,R,110868,160
+Å ÄÃ«lkovo,R,134211,150
+Noginsk,R,103891,150
+Elektrostal,R,146403,150
+BalaÅ¡icha,R,520692,150
+Reutov,R,113871,166
+Lubercy,R,224195,130
+Å½ukovskij,R,111222,130
+Ramenskoye,R,114537,125
+Domodedovo,R,152404,160
+Podolsk,R,314934,160
+Sergijev Posad,R,101756,210
+Orechovo-Zujevo,R,105745,120
+Kolomna,R,134850,125
+Serpuchov,R,133793,140
+Orel,R,303169,170
+Ryazan,R,528599,130
+Smolensk,R,316570,242
+Tver,R,416219,135
+Tula,R,473622,170
+Novomoskovsk,R,119697,220
+Yaroslavl,R,577279,100
+Rybinsk,R,177295,100
+Yoshkar-Ola,R,281248,100
+Saransk,R,314871,160
+Cheboksary,R,497807,150
+NovoÄeboksarsk,R,120375,90
+Kirov,R,468212,150
+Nizhnii Novgorod,R,1226076,78
+DzerÅ¾insk,R,218630,90
+Arzamas,R,104908,150
+Belgorod,R,339978,130
+Staryj Oskol,R,221676,150
+Voronezh,R,1057681,154
+Kursk,R,440052,250
+Lipetsk,R,496403,160
+Jelec,R,108404,140
+Tambov,R,261803,130
+Elista,R,102583,120
+Kazan,R,1308660,116
+Naberezhnye Tchelny,R,548434,100
+NiÅ¾nekamsk,R,241479,110
+Almetjevsk,R,163512,110
+Astrakhan,R,475629,-25
+Volgograd,R,1028036,80
+Volzhsky,R,321479,20
+KamyÅ¡in,R,107927,50
+Penza,R,501109,150
+Samara,R,1173299,100
+Tolyatti,R,684709,90
+Syzran,R,165725,50
+NovokujbyÅ¡evsk,R,108438,90
+Saratov,R,901361,50
+Balakovo,R,184466,24
+Ä–ngels,R,225428,20
+Ulyanovsk,R,617352,140
+Dimitrovgrad,R,110968,60
+Rostov-na-Donu,R,1142162,50
+Batajsk,R,126988,5
+Taganrog,R,245120,30
+Å achty,R,226452,100
+NovoÄerkassk,R,163674,80
+Volgodonsk,R,168048,50
+NovoÅ¡achtinsk,R,103480,130
+Ufa,R,1144809,150
+Neftekamsk,R,131942,100
+Sterlitamak,R,277410,150
+Salavat,R,148575,156
+Oktjabrskij,R,115557,140
+Izhevsk,R,627734,140
+Sarapul,R,101381,80
+Orenburg,R,543654,150
+Orsk,R,189195,200
+Perm,R,1034002,171
+Berezniki,R,138069,130
+Majkop,R,143385,220
+Makhachkala,R,623254,-15
+Derbent,R,124953,-20
+Kaspijsk,R,121140,-20
+Chasavjurt,R,155144,130
+Magas,R,15271,200
+Nazran,R,122350,200
+NalÄik,R,247054,480
+ÄŒerkessk,R,113226,530
+Vladikavkaz,R,295830,680
+Grozny,R,328533,130
+Krasnodar,R,1099344,25
+Sochi,R,466078,30
+Novorossiysk,R,262293,20
+Armavir,R,187177,190
+Stavropol,R,547443,550
+Pyatigorsk,R,146473,600
+Nevinnomyssk,R,117562,320
+Kislovodsk,R,127521,810
+Jessentuki,R,119658,610
+Mikhaylovsk,R,114133,440
+Kurgan,R,310911,75
+Yekaterinburg,R,1544376,237
+Nizhny Tagil,R,338966,200
+Kamensk-Uralskij,R,164192,160
+Pervouralsk,R,114450,283
+Chelyabinsk,R,1189525,220
+Magnitogorsk,R,410594,310
+Zlatoust,R,161774,440
+Miass,R,147995,340
+Kopejsk,R,147806,200
+Gorno Altaysk,R,56933,300
+Barnaul,R,630877,180
+Bijsk,R,183852,180
+Rubcovsk,R,126834,210
+Kemerovo,R,557119,140
+Novokuznetsk,R,537480,200
+Prokopjevsk,R,177819,280
+Novosibirsk,R,1633595,177
+Berdsk,R,102850,130
+Omsk,R,1125695,90
+Tomsk,R,556478,110
+Seversk,R,106648,90
+Tyumen,R,847488,70
+Tobolsk,R,100352,90
+Khanty Mansijsk,R,107473,50
+Surgut,R,396443,40
+Nizhnevartovsk,R,283256,45
+Neftejugansk,R,124732,40
+Salekhard,R,42544,15
+Nojabrsk,R,100188,115
+Novyj Urengoj,R,107251,40
+Ulan-Ude,R,437565,530
+Kyzyl,R,125241,631
+Abakan,R,184769,245
+Krasnoyarsk,R,1187771,259
+Norilsk,R,174453,90
+AÄinsk,R,100621,220
+Irkutsk,R,617264,444
+Angarsk,R,221296,430
+Bratsk,R,224071,450
+Ust-Ilimsk,R,86610,300
+Chita,R,334427,650
+Yakutsk,R,355443,120
+Birobidzhan,R,75413,80
+Anadyr,R,13045,20
+Vladivostok,R,592034,40
+Nachodka,R,139931,8
+Ussurijsk,R,180393,20
+Khabarovsk,R,617441,72
+Komsomolsk-na-Amure,R,238505,30
+BlagoveÅ¡Äensk,R,241437,130
+Petropavlovsk-KamÄatskij,R,164900,150
+Magadan,R,95982,70
+Okhotsk,R,4215,10
+JuÅ¾no-Sachalinsk,R,181587,40
+Bruxelles,B,185103,13
+Schaerbeek,B,132799,
+Molenbeek-Saint-Jean,B,97979,
+Anderlecht,B,120887,
+Antwerpen,B,529247,
+Gent,B,263927,
+Charleroi,B,202746,
+Mons,B,95887,
+LiÃ¨ge,B,197217,
+Hasselt,B,78714,
+Arlon,B,30081,
+Namur,B,111432,
+Brugge,B,118656,2
+Ostende,B,71647,2
+Wavre,B,,
+Leuven,B,102275,
+Luxembourg,L,128494,230
+Groningen,NL,198023,7
+Leeuwarden,NL,108145,3
+Assen,NL,,10
+Enschede,NL,158494,42
+Zwolle,NL,123440,4
+Lelystad,NL,76252,-3
+Almere,NL,196244,-3
+Arnhem,NL,150989,13
+Nijmegen,NL,168810,29
+Apeldoorn,NL,157540,16
+Utrecht,NL,330081,5
+Amersfoort,NL,151270,3
+Amsterdam,NL,812895,2
+Haarlem,NL,155361,2
+Zaanstad,NL,151058,1
+Hilversum,NL,86738,15
+Den Haag,NL,509623,1
+Rotterdam,NL,619180,0
+Dordrecht,NL,118780,1
+Leiden,NL,121387,0
+Middelburg,NL,,3
+s-Hertogenbosch,NL,143822,6
+Eindhoven,NL,221279,17
+Tilburg,NL,210283,14
+Breda,NL,180263,3
+Maastricht,NL,122243,49
+Heerlen,NL,88139,113
+Sittard-Geleen,NL,93726,47
+Ljubljana,SLO,285604,295
+Maribor,SLO,97019,275
+Zagreb,HR,663592,158
+Split,HR,149830,10
+Rijeka,HR,107964,10
+Osijek,HR,75535,94
+Zadar,HR,67309,10
+Sarajevo,BIH,291422,518
+Tuzla,BIH,120441,245
+Zenica,BIH,115134,316
+Mostar,BIH,113169,60
+Banja Luka,BIH,199191,163
+Bijeljina,BIH,114663,90
+BrÄko,BIH,93028,92
+Sofia,BG,1221785,500
+Plovdiv,BG,342048,164
+Varna,BG,332394,80
+Burgas,BG,198593,30
+Ruse,BG,135440,45
+Stara Zagora,BG,125732,196
+Pleven,BG,91119,191
+Alba Iulia,RO,,230
+Arad,RO,159074,117
+PiteÅŸti,RO,155383,300
+BacÄƒu,RO,144307,165
+Oradea,RO,196367,142
+Bistrita,RO,,356
+BotoÅŸani,RO,106847,170
+BrÄƒila,RO,180302,25
+BraÅŸov,RO,253200,600
+BucureÅŸti,RO,1883425,55.8
+BuzÄƒu,RO,115494,95
+Calarasi,RO,,26
+Resita,RO,,208
+Cluj-Napoca,RO,324576,340
+ConstanÅ£a,RO,283872,25
+Sfintu Gheorghe,RO,,555
+Targoviste,RO,,292
+Craiova,RO,269506,100
+GalaÅ£i,RO,249432,55
+Giurgiu,RO,,25
+Tirgu Jiu,RO,,
+Miercurea Ciuc,RO,,662
+Deva,RO,,187
+Slobozia,RO,,
+IaÅŸi,RO,290422,60
+Baia Mare,RO,123738,228
+Drobeta-Turnu Severin,RO,92617,50
+TÃ¢rgu MureÅŸ,RO,134290,320
+Piatra-NeamÅ£,RO,85055,310
+Slatina,RO,,155
+PloieÅŸti,RO,209945,160
+Zalau,RO,,275
+Satu Mare,RO,102411,127
+Sibiu,RO,147245,415
+Suceava,RO,92121,300
+Alexandria,RO,,41
+TimiÅŸoara,RO,319279,90
+Tulcea,RO,,30
+Vaslui,RO,,110
+RÃ¢mnicu VÃ¢lcea,RO,98776,
+Focsani,RO,,55
+Buftea,RO,,
+Ã…lborg,DK,110495,5
+Viborg,DK,,51
+Ã…rhus,DK,261570,5
+Randers,DK,61664,56
+Vejle,DK,53975,8
+Odense,DK,173814,13
+Esbjerg,DK,72060,11
+HillerÃ¸d,DK,,41
+Copenhagen,DK,580184,24
+HelsingÃ¸r,DK,,8
+Ronne,DK,,15
+SorÃ¸,DK,,
+Reykjavik,IS,228415,
+Keflavik,IS,19311,
+Akureyri,IS,18893,
+TÃ³rshavn,FO,13130,
+Dublin,IRL,588233,20
+Cork,IRL,130119,9
+Limerick,IRL,61570,10
+Galway,IRL,83456,25
+Letterkenny,IRL,17400,52
+Mariehamn,SF,10851,
+HÃ¤meenlinna,SF,67803,
+Lahti,SF,103396,
+Tampere,SF,220678,
+Kuopio,SF,106475,
+Lappeenranta,SF,72617,
+Kouvola,SF,85306,
+Rovaniemi,SF,61244,
+Mikkeli,SF,54633,
+JyvÃ¤skylÃ¤,SF,134862,
+Joensuu,SF,74332,
+Oulu,SF,194181,
+Kajaani,SF,37304,
+Pori,SF,83457,
+Turku,SF,182154,
+Helsinki,SF,614535,
+Espoo,SF,261654,
+Vaasa,SF,66415,
+SeinÃ¤joki,SF,62052,
+Kokkola,SF,47723,
+Oslo,N,623966,23
+Sandvika,N,116677,12
+Moss,N,24517,14
+Hamar,N,15685,134
+Lillehammer,N,22118,440
+Drammen,N,65473,5
+Tonsberg,N,8984,
+Skien,N,53015,
+Arendal,N,12174,3
+Kristiansand,N,84476,
+Stavanger,N,129191,
+Bergen,N,267950,5
+Hermansverk,N,,6
+Molde,N,21448,130
+Trondheim,N,179692,3
+Steinkjer,N,20480,
+Narvik,N,18754,
+BodÃ¸,N,34479,
+TromsÃ¸,N,48109,
+Hammerfest,N,7089,2
+VadsÃ¸,N,5961,6
+GÃ¶teborg,S,526089,12
+VÃ¤nersborg,S,35804,
+Mariestad,S,24255,
+BorÃ¥s,S,104867,143
+Karlskrona,S,59007,16
+GÃ¤vle,S,96170,8
+Visby,S,20000,
+Halmstad,S,93231,11
+Ostersund,S,56662,312
+JÃ¶nkÃ¶ping,S,129478,104
+Kalmar,S,54554,8
+Falun,S,51900,110
+MalmÃ¶,S,307758,12
+Helsingborg,S,132011,10
+Kristianstad,S,80507,
+Lund,S,112950,
+VÃ¤xjÃ¶,S,84800,167
+Lulea,S,66526,6
+Ã–rebro,S,138952,34
+LinkÃ¶ping,S,148521,45
+NorrkÃ¶ping,S,132124,
+Nykoping,S,64199,20
+Eskilstuna,S,98765,26
+Stockholm,S,881235,2
+Huddinge,S,101010,
+Uppsala,S,202625,15
+Karlstad,S,86929,64
+UmeÃ¥,S,117294,12
+HÃ¤rnÃ¶sand,S,27287,1
+VÃ¤sterÃ¥s,S,140499,17
+Monaco,MC,1064,
+Monte Carlo,MC,17372,
+Vatican City,V,826,
+Ceuta,CEU,84071,
+Melilla,MEL,86450,
+San Marino,RSM,4048,749
+Valletta,M,5157,56
+Victoria,M,7242,
+Douglas,GBM,26677,
+ChiÅŸinÄƒu,MD,663400,85
+Tiraspol,MD,148917,
+BÄƒlÅ£i,MD,143300,59
+Aveiro,P,62130,
+Beja,P,,
+Braga,P,148550,200
+Braganca,P,,674
+Castelo Branco,P,,
+Coimbra,P,105190,34
+Evora,P,,300
+Faro,P,,6
+Guarda,P,,1056
+Leiria,P,54540,
+Lisboa,P,545796,5
+Amadora,P,171454,
+Barreiro,P,62860,3
+Almada,P,95460,50
+Portalegre,P,,
+Oporto,P,231800,
+Vila Nova de Gaia,P,188660,
+Santarem,P,,
+SetÃºbal,P,98470,
+Viana do Castelo,P,,15
+Vila Real,P,,450
+Viseu,P,60570,
+Ponta Delgada,P,40050,
+Funchal,P,105590,
+Longyearbyen,SVA,,
+Newcastle upon Tyne,GB,281727,
+Sunderland,GB,170134,
+Gateshead,GB,115720,
+Middlesbrough,GB,179959,
+Manchester,GB,560392,38
+Sale,GB,141068,
+Wigan,GB,105690,
+Stockport,GB,111023,
+Bolton,GB,212271,
+Salford,GB,129794,68
+Oldham,GB,111321,
+Rochdale,GB,114615,
+Warrington,GB,173365,
+Blackpool,GB,148150,5
+Blackburn,GB,124900,
+Liverpool,GB,576561,70
+Birkenhead,GB,145208,
+St Helens,GB,106591,
+Preston,GB,99101,
+Leeds,GB,487837,9
+Wakefield,GB,109766,
+Bradford,GB,370185,
+Huddersfield,GB,167534,
+Sheffield,GB,525142,
+Doncaster,GB,113566,
+Rotherham,GB,109697,
+York,GB,156135,
+Kingston upon Hull,GB,295179,
+Nottingham,GB,306573,61
+Northampton,GB,245899,
+Leicester,GB,487837,
+Derby,GB,269053,
+Lincoln,GB,111201,
+Birmingham,GB,1161258,140
+Coventry,GB,355703,
+Wolverhampton,GB,218488,
+Solihull,GB,126245,
+Stoke-on-Trent,GB,279769,107
+Worcester,GB,105491,
+Sutton Coldfield,GB,109899,
+Telford,GB,155570,
+Cambridge,GB,167007,6
+Peterborough,GB,189561,
+Ipswich,GB,151240,
+Chelmsford,GB,120091,
+Watford,GB,148069,71
+Southend-on-Sea,GB,182591,
+Basildon,GB,117341,
+Colchester,GB,138753,
+Norwich,GB,200996,
+Luton,GB,233498,
+Hemel Hempstead,GB,103212,
+London,GB,8888608,11
+Southampton,GB,266934,
+Portsmouth,GB,241623,
+Basingstoke,GB,118807,
+Milton Keynes,GB,192943,
+High Wycombe,GB,127856,
+Brighton and Hove,GB,232503,
+Maidstone,GB,121723,
+Oxford,GB,172264,
+Reading,GB,242572,61
+Slough,GB,175100,
+Eastbourne,GB,113127,
+Gillingham,GB,107897,
+Crawley,GB,116880,
+Worthing,GB,116192,7
+Woking,GB,111766,
+Bristol,GB,586781,11
+Bath,GB,101557,
+Plymouth,GB,240903,20
+Exeter,GB,124893,
+Bournemouth,GB,200916,
+Poole,GB,160778,
+Cheltenham,GB,119587,
+Gloucester,GB,151176,
+Swindon,GB,201669,
+Edinburgh,GB,505310,47
+Glasgow,GB,631690,
+Aberdeen,GB,196220,
+Dundee,GB,146840,
+Kirkwall,GB,7045,
+Lerwick,GB,6958,
+Cardiff,GB,349780,
+Swansea,GB,178118,
+Newport,GB,139383,
+Belfast,GB,340000,
+Gibraltar,GBZ,,
+Saint Peter Port,GBG,,
+Saint Helier,GBJ,,
+Yerevan,ARM,1066264,989.4
+Tbilisi,GE,1078297,380
+Kutaisi,GE,147635,80
+Batumi,GE,152839,3
+Baku,AZ,2150800,-23
+Ganja,AZ,322600,408
+Sumgayit,AZ,290500,-10
+Adana,TR,1765981,23
+Ceyhan,TR,116372,
+Adiyaman,TR,267129,764
+Afyonkarahisar,TR,251799,1021
+Agri,TR,120390,
+Aksaray,TR,247148,980
+Amasya,TR,113373,40
+Ankara,TR,5154602,938
+Antalya,TR,1296445,30
+Artvin,TR,,345
+Aydin,TR,255254,67
+Nazilli,TR,123115,
+BalÄ±kesir,TR,312523,70
+BandÄ±rma,TR,142367,20
+Batman,TR,452157,540
+Bayburt,TR,,1550
+Bilecik,TR,,
+Bingol,TR,128935,1151
+Bitlis,TR,,1500
+Bolu,TR,184682,725
+Burdur,TR,,
+Bursa,TR,2024480,100
+Ä°negÃ¶l,TR,233174,
+Canakkale,TR,143622,
+Cankiri,TR,,800
+Corum,TR,267394,801
+Denizli,TR,643007,324
+Diyarbakir,TR,1069578,675
+Edirne,TR,174662,42
+Elazig,TR,381158,1067
+Erzincan,TR,134544,1185
+Erzurum,TR,417028,1900
+Eskisehir,TR,779758,788
+Gaziantep,TR,1714775,850
+Nizip,TR,116794,
+Giresun,TR,122787,10
+GÃ¼mÃ¼ÅŸhane,TR,,
+Hakkari,TR,,
+Iskenderun,TR,186699,4
+Hatay,TR,362124,67
+Mersin,TR,1027643,10
+Tarsus,TR,274405,
+Isparta,TR,245784,1049
+Ä°stanbul,TR,15204387,40
+Ä°zmir,TR,2947901,25
+Menemen,TR,178506,20
+Karaman,TR,172683,
+KahramanmaraÅŸ,TR,559873,67
+Kars,TR,90124,1768
+Kastamonu,TR,125622,800
+Kayseri,TR,979377,1050
+Talas,TR,163770,1150
+Kirikkale,TR,188769,
+Kirklareli,TR,,203
+LÃ¼leburgaz,TR,123889,30
+Kirsehir,TR,148207,
+Kocaeli,TR,338369,100
+Gebze,TR,748510,
+Derince,TR,141320,
+KÃ¶rfez,TR,170963,
+GÃ¶lcÃ¼k,TR,166180,
+Konya,TR,1345077,1200
+KÃ¼tahya,TR,258592,930
+Malatya,TR,485198,954
+Manisa,TR,377629,
+Akisar,TR,129982,
+Mardin,TR,129990,1083
+KÄ±zÄ±ltepe,TR,192672,
+Mugla,TR,,660
+Mus,TR,111228,
+Nevsehir,TR,120599,
+Nigde,TR,157640,1229
+Ordu,TR,183901,5
+Rize,TR,119828,6
+Sakarya,TR,544984,31
+Samsun,TR,643820,
+ÅžanlÄ±urfa,TR,586733,477
+Åživerek,TR,156853,
+ViranÅŸehir,TR,115903,620
+Siirt,TR,160340,895
+Sinop,TR,,
+Sirnak,TR,,1650
+Cizre,TR,130190,377
+Sivas,TR,361998,1285
+Tekirdag,TR,182143,
+Ã‡orlu,TR,302395,10
+Ã‡erkezkÃ¶y,TR,137583,
+Tokat,TR,161169,623
+Trabzon,TR,292741,5
+Tunceli,TR,,940
+Usak,TR,226486,890
+Van,TR,514479,1730
+Yozgat,TR,92840,1300
+Zonguldak,TR,103079,60
+Karadeniz EreÄŸli,TR,121439,
+Bartin,TR,,25
+KarabÃ¼k,TR,123309,
+Ardahan,TR,,1900
+IÄŸdÄ±r,TR,99276,861
+Yalova,TR,135355,
+Kilis,TR,108984,663
+DÃ¼zce,TR,188928,
+Osmaniye,TR,247276,
+BayrÅ«t,RL,1650000,
+Ramallah,WB,,
+Nablus,WB,156906,
+Al Khalil,WB,201063,
+Gaza,GAZA,631215,
+Yerushalayim,IL,936425,754
+Ramla,IL,76246,80
+Rishon LeZiyyon,IL,254384,40
+Petah Tiqwa,IL,247956,15
+Netanya,IL,221353,
+Haifa,IL,285316,475
+Nazareth,IL,77445,
+Tel Aviv-Yafo,IL,460613,5
+Beer Sheva,IL,209687,260
+Ashdod,IL,225939,
+Al Hasakah,SYR,254622,300
+Al Qamishl,SYR,232258,455
+Al Ladhiqiyah,SYR,424392,11
+Al Qunaytirah,SYR,,1010
+Ar Raqqah,SYR,343870,245
+As Suwayda,SYR,147146,1080
+Daraa,SYR,146481,435
+Dayr az Zawr,SYR,239196,210
+Dimashq,SYR,1552161,680
+Halab,SYR,2181061,379
+Manbij,SYR,204766,460
+Hamah,SYR,467807,280
+Hims,SYR,750501,501
+Idlib,SYR,126284,500
+Maarrat an Numan,SYR,150965,530
+Duma,SYR,181934,428
+Tartus,SYR,160862,20
+Amman,JOR,4007526,784
+Zarqa,JOR,635160,619
+Irbid,JOR,502714,620
+Arar,SA,167057,536
+Al Baha,SA,,2155
+Sakaka,SA,150257,566
+Al Madinah,SA,1100093,
+Yanbu al-Bahr,SA,233236,
+Buraydah,SA,467410,
+Riyadh,SA,5188286,612
+Abha,SA,236157,2400
+Khamis Mushait,SA,430828,
+Ad-Dammam,SA,903312,
+Al-Hufuf,SA,660788,154
+Al-Jubail,SA,337778,
+Hafar al_Batin,SA,271642,
+Hail,SA,310897,992
+Jazan,SA,127743,40
+Makkah,SA,1534731,277
+Jeddah,SA,3430697,12
+At Taif,SA,579970,1879
+Najran,SA,298288,1293
+Tabouk,SA,512629,760
+Al ManÄmah,BRN,143035,
+Doha,Q,872048,7
+Al Rayyan,Q,799933,
+Abu Dhabi,UAE,1202756,
+Al Ain,UAE,426205,292
+Dubai,UAE,2401067,
+Al Sharjah,UAE,1274729,
+Muscat,OM,24099,20
+As Seeb,OM,470878,
+Salalah,OM,293962,
+Sanaa,YE,1527861,2250
+Aden,YE,570551,6
+Taizz,YE,458933,1370
+al Hudaydah,YE,402560,17
+Al Kuwayt,KWT,4464521,
+Ar Ramadi,IRQ,223525,
+Al Hillah,IRQ,455741,34
+Baghdad,IRQ,6719476,34
+Al Basrah,IRQ,1340827,5
+An Nasiriyah,IRQ,558446,7
+Baqubah,IRQ,279133,48
+Kerbela,IRQ,711530,
+Al Amarah,IRQ,527472,12
+As Samawah,IRQ,221743,9
+An Najaf,IRQ,747261,60
+Al Mawsil,IRQ,1361819,223
+Diwaniyah,IRQ,403796,25
+Samarra,IRQ,144771,80
+Kirkuk,IRQ,972272,350
+Al Kut,IRQ,389376,23
+Duhouk,IRQ,340871,565
+Arbil,IRQ,879071,420
+As Sulaymaniyah,IRQ,676492,882
+Orumiyeh,IR,736624,1332
+Khoy,IR,198845,1148
+Maragheh,IR,175255,1456
+Tabriz,IR,1558693,1351.4
+Kermanshah,IR,946651,1350
+Yasuj,IR,134532,2004
+Bushehr,IR,223504,8
+Shahr-e-Kord,IR,190441,2070
+Esfahan,IR,1961260,1574
+Najafabad,IR,235281,
+Khomeinishahr,IR,247128,
+Shiraz,IR,1565572,1500
+Rasht,IR,679995,5
+Hamedan,IR,554406,1850
+Malayer,IR,170237,
+Bandar Abbas,IR,526648,9
+Ilam,IR,194030,1431
+Kerman,IR,537718,1755
+Sirjan,IR,199704,1730
+Mashhad,IR,3001184,995
+Sabzevar,IR,243700,977.6
+Neyshabur,IR,264375,1250
+Ahvaz,IR,1184788,17
+Khorramshahr,IR,133097,5
+Dezful,IR,264709,150
+Masjed Soleyman,IR,100497,372
+Abadan,IR,231476,3
+Sanandaj,IR,412767,1538
+Khorramabad,IR,373416,1147
+Borujerd,IR,234997,1573
+Arak,IR,520944,1718
+Sari,IR,309820,5
+Amol,IR,237528,76
+Babol,IR,250217,-2
+Qaemshahr,IR,204953,
+Semnan,IR,185129,1130
+Zahedan,IR,587730,1352
+Tehran,IR,8693706,1200
+Kashan,IR,304487,982
+Eslam Shahr,IR,448129,1456
+Yazd,IR,529673,1216
+Zanjan,IR,430871,1638
+Ardebil,IR,529374,1351
+Gorgan,IR,350676,1350
+Gonbad-e-Kavus,IR,151910,
+Karaj,IR,1592492,1312
+Qom,IR,1201158,928
+Qazvin,IR,402748,
+Bojnurd,IR,228931,1070
+Birjand,IR,203636,1491
+Kabul,AFG,4434600,1791
+Herat,AFG,574300,920
+Kandahar,AFG,523300,1010
+Mazar-i-Sharif,AFG,484500,357
+JalÄlÄbÄd,AFG,271900,575
+Ashgabat,TM,791000,219
+Anau,TM,,
+Balkanabat,TM,87800,17
+Dashhowuz,TM,141800,88
+Turkmenabat,TM,189200,187
+Mary,TM,101000,226
+Andijon,UZ,441700,450
+Buxoro,UZ,280187,225
+Fargona,UZ,288850,582
+Quâ€˜qon,UZ,252730,409
+Margâ€˜ilon,UZ,235024,487
+Jizzax,UZ,177447,378
+Urganch,UZ,143750,91
+Namangan,UZ,626120,450
+Navoiy,UZ,144158,382
+Qarshi,UZ,274891,374
+Samarqand,UZ,546303,702
+Guliston,UZ,,271
+Termiz,UZ,179572,302
+Chirchiq,UZ,157220,582
+Angren,UZ,188360,961
+Olmaliq,UZ,131111,530
+Nukus,UZ,319583,76
+Toshkent,UZ,2571668,455
+Khujand,TJ,183600,300
+Bochtar,TJ,111800,430
+Kulyab,TJ,106300,580
+Khorugh,TJ,,2123
+Dushanbe,TJ,863400,706
+Bishkek,KG,987600,800
+Osh,KG,265200,963
+Almaty,KZ,1507737,500
+Taldykurgan,KZ,135217,600
+Koksetau,KZ,140846,234
+Aqtobe,KZ,377520,219
+Atyrau,KZ,196494,-20
+Oral,KZ,227385,35
+Aktau,KZ,181526,-8
+Shymkent,KZ,683273,506
+Pavlodar,KZ,329901,123
+Ekibastuz,KZ,130903,347
+Karaganda,KZ,484596,546
+Temirtau,KZ,175632,
+Zhezkazgan,KZ,84765,300
+Balkhash,KZ,71203,440
+Kustanay,KZ,221970,125
+Rudniy,KZ,114170,
+Kyzylorda,KZ,213165,128
+Ã–skemen,KZ,314014,283
+Semei,KZ,312065,206
+Petropavlovsk,KZ,207402,140
+Taraz,KZ,351476,610
+Baikonur,KZ,,100
+Astana,KZ,1136008,347
+Ulaanbaatar,MNG,1395773,1350
+Erdenet,MNG,100183,1300
+Male,MV,133412,2.4
+Muzaffarabad,PK,725000,737
+Quetta,PK,1001205,1680
+Turbat,PK,213557,129
+Islamabad,PK,1009832,507
+Gilgit,PK,216760,1500
+Peshawar,PK,1970042,359
+Mardan,PK,358604,
+Mingaora,PK,331091,984
+Lahore,PK,11126285,217
+Faisalabad,PK,3204726,184
+Gujranwala,PK,2027001,
+Rawalpindi,PK,2098231,508
+Multan,PK,1871843,122
+Sialkot,PK,655852,256
+Sargodha,PK,659862,193
+Jhang,PK,414131,
+Bahawalpur,PK,762111,461
+Kasur,PK,358409,218
+Gujrat,PK,390533,
+Okara,PK,357935,105
+Sahiwal,PK,389605,152.4
+Sheikhupura,PK,473129,236
+Wah Cantonment,PK,380103,471
+Rahimyar Khan,PK,420419,
+Jhelum,PK,190425,250
+Chiniot,PK,278747,179
+Dera Ghazi Khan,PK,399064,
+Kamoke,PK,249767,
+Burewala,PK,231797,133
+Karachi,PK,14916456,8
+Hyderabad,PK,1734309,13
+Sukkur,PK,499900,67
+Larkana,PK,490508,147
+Nawabshah,PK,279688,
+Mirpur Khas,PK,233916,
+Visakhapatnam,IND,1728128,54
+Vijayawada,IND,1034358,23
+Guntur,IND,651382,30
+Rajahmundry,IND,324881,14
+Itanagar,IND,,750
+Gauhati,IND,584342,55.5
+Dispur,IND,,55
+Patna,IND,1684222,53
+Panaji,IND,,
+Ahmadabad,IND,5577940,53
+Surat,IND,4467797,13
+Vadodara,IND,1670806,129
+Rajkot,IND,1286678,128
+Bhavnagar,IND,402338,24
+Jamnagar,IND,350544,17
+Gandhinagar,IND,,81
+Bharuch,IND,,15
+Simla,IND,,2205
+Srinagar,IND,1180570,1585
+Jammu,IND,,327
+Bangalore,IND,8443675,920
+Hubli,IND,648298,671
+Mysore,IND,606755,763
+Trivandrum,IND,752490,10
+Kochi,IND,582588,1
+Kozhikode,IND,456618,1
+Bhopal,IND,1798218,527
+Indore,IND,1964086,553
+Jabalpur,IND,1055525,412
+Gwalior,IND,1054420,196
+Ujjain,IND,362633,
+Bhatpara,IND,315976,12
+Mumbai,IND,12442373,14
+Thane,IND,1841488,
+Navi Mumbai,IND,1120547,
+Nagpur,IND,2405665,310
+Pune,IND,3124458,561
+Kalyan,IND,1247327,8.84
+Nashik,IND,1486053,660
+Sholapur,IND,604215,457
+Aurangabad,IND,1175116,568
+Amravati,IND,421576,343
+Kolhapur,IND,406370,545.6
+Bhiwandi,IND,392214,24
+Ulhasnagar,IND,369077,19
+Pimpri Chinchwad,IND,1727692,570
+Imphal,IND,,786
+Shillong,IND,,1525
+Aijal,IND,,1132
+Kohima,IND,,1444
+Bhubaneswar,IND,411542,45
+Cuttack,IND,403418,36
+Ludhiana,IND,1618879,262
+Amritsar,IND,1132383,
+Jalandhar,IND,509510,228
+Jaipur,IND,3046163,431
+Jodhpur,IND,1033756,231
+Kota,IND,1001694,271
+Bikaner,IND,416289,242
+Ajmer,IND,402700,486
+Gangtok,IND,,1600
+Chennai,IND,4646732,6
+Madurai,IND,1017865,101
+Coimbatore,IND,1050721,411.2
+Tiruchirappalli,IND,387223,88
+Salem,IND,366712,278
+Agartala,IND,,12.8
+Lucknow,IND,2817105,128
+Kanpur,IND,2765348,126
+Varanasi,IND,1198491,80.71
+Agra,IND,1585704,171
+Allahabad,IND,1112544,98
+Meerut,IND,1305429,224.659
+Faridabad,IND,1414050,198
+Bareilly,IND,590661,268
+Gorakhpur,IND,505566,84
+Aligarh,IND,480520,178
+Moradabad,IND,429214,198
+Saharanpur,IND,374945,
+Jhansi,IND,313491,285
+Ghaziabad,IND,1648643,214
+Kolkata,IND,4496694,9
+Haora,IND,1077075,12
+Durgapur,IND,425836,65
+Port Blair,IND,,16
+Chandigarh,IND,510565,350
+Silvassa,IND,,32
+Daman,IND,,5
+Delhi,IND,11034555,200
+Kavaratti,IND,,
+Pondicherry,IND,,3
+Raipur,IND,1010433,298.15
+Bhilai,IND,395360,452
+Ranchi,IND,1073427,651
+Jamshedpur,IND,478950,135
+Bokaro Steel City,IND,333683,210
+Hyderabad,IND,6731790,505
+Warangal,IND,447653,302
+Dehra Dun,IND,,435
+Kathmandu,NEP,845767,1400
+Pokhara,NEP,518452,822
+Bharatpur,NEP,369377,208
+Lalitpur,NEP,299843,1350
+Biratnagar,NEP,244750,80
+Thimphu,BHT,114551,2334
+Barisal,BD,328278,1
+Chittagong,BD,3227246,
+Comilla,BD,339133,
+Dhaka,BD,10278882,4
+Tongi,BD,476349,
+Narayanganj,BD,286330,3
+Savar,BD,296851,
+Khulna,BD,718735,9
+Rajshahi,BD,552791,18
+Bogra,BD,350397,21
+Rangpur,BD,294265,34
+Sylhet,BD,532426,35
+Mymensingh,BD,258040,19
+Pathein,MYA,286684,
+Magwe,MYA,,
+Mandalay,MYA,1225133,22
+Bago,MYA,491130,4
+Yangon,MYA,5209541,15
+Monywa,MYA,371963,
+Sagaing,MYA,,
+Tavoy,MYA,,
+Hakha,MYA,,1868
+Myitkyina,MYA,,
+Hpa an,MYA,,
+Loikaw,MYA,,884
+Mawlamyine,MYA,288120,
+Sittwe,MYA,149348,
+Taunggyi,MYA,380665,1399
+Nay Pyi Taw,MYA,1158367,115
+Sri Jayawardhanapura,CL,107925,1
+Colombo,CL,561314,1
+Hefei,CN,5055978,37
+Huainan,CN,1300351,
+Bengbu,CN,1077704,
+Bozhou,CN,750569,32
+Wuhu,CN,1598165,7.9
+Huaibei,CN,830891,
+Maanshan,CN,784608,
+Fuyang,CN,1191810,
+Luan,CN,1069940,
+Suzhou,CN,920722,
+Fuzhou,CN,3723454,
+Xiamen,CN,4617251,
+Putian,CN,1539389,
+Quanzhou,CN,1469157,
+Zhangzhou,CN,845286,
+Lanzhou,CN,3012577,1518
+Tianshui,CN,752900,1171
+Guangzhou,CN,16096724,21
+Shantou,CN,3838900,51
+Jieyang,CN,1242906,8
+Puning,CN,935668,10
+Zhanjiang,CN,1400709,21
+Shenzhen,CN,17494398,2
+Shaoguan,CN,803375,59
+Chaozhou,CN,1254007,10
+Dongguan,CN,9644871,8
+Foshan,CN,9042509,16
+Zhongshan,CN,3841873,11
+Jiangmen,CN,1795459,10
+Yangjiang,CN,859595,4
+Zhaoqing,CN,1150263,12
+Maoming,CN,1307802,29
+Zhuhai,CN,2207090,36
+Huizhou,CN,2900113,15
+Guiyang,CN,4021275,1275
+Zunyi,CN,1675245,865
+Haikou,CN,2349239,
+Sanya,CN,801020,
+Shijiazhuang,CN,5090440,83
+Tangshan,CN,2551948,
+Handan,CN,2095134,
+Zhangjiakou,CN,1339384,716
+Baoding,CN,1940384,25
+Langfang,CN,886490,25
+Cangzhou,CN,759403,13
+Qinhuangdao,CN,1520199,
+Xingtai,CN,1480754,
+Harbin,CN,5242897,150
+Qiqihar,CN,1029522,147
+Jixi,CN,626019,230
+Daqing,CN,1604027,149
+Mudanjiang,CN,808216,233
+Zhengzhou,CN,6461013,
+Xinzheng,CN,787544,
+Luoyang,CN,2230661,144
+Kaifeng,CN,1193802,75
+Xinxiang,CN,1271350,
+Anyang,CN,1187772,69
+Pingdingshan,CN,1045966,
+Jiaozuo,CN,874733,139
+Nanyang,CN,1407616,131
+Xuchang,CN,850403,71
+Xinyang,CN,1014843,
+Puyang,CN,824397,
+Shangqiu,CN,1031123,50
+Luohe,CN,807745,
+Zhumadian,CN,754320,
+Wuhan,CN,10392693,37
+Xiangyang,CN,1686403,71
+Yichang,CN,1284305,58
+Jingzhou,CN,950215,
+Shiyan,CN,954914,
+Xiaogan,CN,775062,
+Changsha,CN,5630256,63
+Liuyang,CN,886257,63
+Ningxiang,CN,759080,130
+Hengyang,CN,1185130,
+Xiangtan,CN,978000,
+Zhuzhou,CN,1510148,
+Yueyang,CN,1125448,
+Changde,CN,1100719,35
+Yiyang,CN,758408,
+Nanjing,CN,7519814,20
+Wuxi,CN,3956985,
+Xuzhou,CN,2845552,
+Pizhou,CN,850773,
+Zhangjiagang,CN,1055893,
+Changzhou,CN,3187315,
+Zhenjiang,CN,1123813,
+Lianyungang,CN,1071019,
+Nantong,CN,2987600,2
+Rugao,CN,761879,2
+Yangzhou,CN,2067254,
+Yancheng,CN,1353475,
+Jiangyin,CN,1331352,
+Yixing,CN,889871,
+Changshu,CN,1230599,
+Taizhou,CN,1348327,
+Huaian,CN,1850000,
+Suqian,CN,1255619,
+Kunshan,CN,1652159,
+Nanchang,CN,3518975,37
+Jiujiang,CN,947424,
+Ganzhou,CN,1778132,107
+Shangrao,CN,1342220,
+Jilin,CN,1509292,202
+Changchun,CN,4557356,222
+Shenyang,CN,7026358,55
+Dalian,CN,4913879,29
+Anshan,CN,1480332,2
+Fushun,CN,1228890,
+Benxi,CN,808221,131
+Jinzhou,CN,1021478,24
+Dandong,CN,748983,8
+Liaoyang,CN,764504,29
+Panjin,CN,980422,
+Huludao,CN,764241,
+Xining,CN,1677177,2275
+Xian,CN,9392938,405
+Xianyang,CN,775062,
+Baoji,CN,1107702,570
+Jinan,CN,5648162,23
+Zibo,CN,2750312,7
+Qingdao,CN,6165279,
+Yantai,CN,2311885,
+Weifang,CN,1998405,32
+Zaozhuang,CN,1349883,
+Taian,CN,1416591,167
+Linyi,CN,2743843,74
+Dongying,CN,961300,
+Tengzhou,CN,937438,
+Xintai,CN,774715,
+Laiwu,CN,761440,
+Liaocheng,CN,1020430,
+Dezhou,CN,843372,
+Heze,CN,1293767,
+Rizhao,CN,1147175,
+Weihai,CN,1339645,
+Taiyuan,CN,4303673,800
+Datong,CN,1809505,1042
+Changzhi,CN,1047461,
+Yuci,CN,191356,
+Chengdu,CN,13568357,500
+Zigong,CN,868565,
+Leshan,CN,802817,
+Mianyang,CN,1549499,473
+Luzhou,CN,1128479,262
+Yibin,CN,1100737,321
+Nanchong,CN,1254455,340
+Wanzhou,CN,1078149,
+Kunming,CN,5273144,1892
+Qujing,CN,976161,1873
+Hangzhou,CN,9236032,
+Ningbo,CN,3731203,150
+Wenzhou,CN,2582084,
+Yueqing,CN,949823,
+Huzhou,CN,1083953,
+Jiaxing,CN,1188321,
+Shaoxing,CN,2333080,
+Ruian,CN,1012484,
+Zhoushan,CN,882932,
+Wenling,CN,920913,
+Jinhua,CN,1040948,
+Yiwu,CN,1481384,
+Yuyao,CN,1013866,
+Cixi,CN,1457510,
+Haining,CN,752775,
+Nanning,CN,4582703,
+Liuzhou,CN,2204841,
+Guilin,CN,1361244,153
+Yulin,CN,877561,
+Qinzhou,CN,771052,12
+Guigang,CN,921440,45
+Hohhot,CN,2373399,1065
+Baotou,CN,2104114,1065
+Chifeng,CN,1093068,586
+Tongliao,CN,921808,179
+Hailar,CN,365012,614
+Yinchuan,CN,1662968,1100
+Wulumuqi,CN,3864136,800
+Yining,CN,515082,
+Kashgar,CN,506640,1270
+Aksu,CN,164092,
+Lhasa,CN,568927,4200
+Beijing,CN,18960744,43.5
+Shanghai,CN,21909814,4
+Tianjin,CN,11052404,5
+Chongqing,CN,9580770,237
+Yongchuan,CN,803458,255
+Taipei,RC,2673226,10
+New Taipei,RC,3939305,
+Taoyuan,RC,413488,
+Jhongli,RC,376217,
+Keelung,RC,377153,
+Hsinchu,RC,425071,
+Taichung,RC,2684893,
+Changhua,RC,236636,20
+Hualien,RC,108077,
+Chiayi,RC,271220,69
+Tainan,RC,1881645,
+Pingtung,RC,207862,20
+Kaohsiung,RC,2778659,9
+Taitung,RC,107720,
+Kowloon,HK,2230550,
+Victoria,HK,923028,
+Tuen Mun,HK,465428,
+Sha Tin,HK,487961,
+Macao,MAC,533635,
+Taipa-Coloane,MAC,148435,
+Pyongyang,KP,3255288,38
+Hamhung-Hungnam,KP,768551,
+Chongjin,KP,667929,
+Nampho,KP,366815,
+Sunchon,KP,297317,
+Sinuiju,KP,359341,
+Tanchon,KP,345875,
+Wonsan,KP,363127,
+Tokchon,KP,237133,
+Kanggye,KP,251971,
+Haeju,KP,273300,
+Anju,KP,240117,
+Kim Chaek,KP,207299,
+Kusong,KP,196515,
+Huichon,KP,168180,
+Sinpho,KP,152759,
+Kaesong,KP,308440,
+Kaechon,KP,319554,
+Sariwon,KP,307764,
+Seoul,ROK,9586195,
+Busan,ROK,3349016,
+Daegu,ROK,2410700,
+Incheon,ROK,2945454,
+Gwangju,ROK,1477573,
+Daejeon,ROK,1488435,
+Sejong,ROK,353933,
+Ulsan,ROK,1135423,
+Suwon,ROK,1210150,
+Seongnam,ROK,922025,
+Jeonju,ROK,666517,
+Changwon,ROK,1029389,2
+Cheongju,ROK,855326,39
+Jinju,ROK,352403,
+Mokpo,ROK,224509,
+Jeju,ROK,492306,
+Gunsan,ROK,269023,
+Chuncheon,ROK,284645,
+Yeosu,ROK,271505,
+Goyang,ROK,1045497,
+Yongin,ROK,1066975,
+Bucheon,ROK,833148,16
+Ansan,ROK,717345,139
+Anyang,ROK,542336,47
+Sapporo,J,1952356,
+Asahikawa,J,339605,116
+Hakodate,J,265979,
+Kushiro,J,174742,
+Aomori,J,287648,2
+Morioka,J,297631,
+Sendai,J,1082159,
+Akita,J,315814,
+Yamagata,J,253832,
+Fukushima,J,294247,67
+Mito,J,270783,
+Utsunomiya,J,518594,
+Maebashi,J,336154,
+Saitama,J,1263979,
+Kawaguchi,J,578112,
+Chiba,J,971882,2
+Funabashi,J,622890,
+Matsudo,J,483480,
+Ichikawa,J,481732,
+Kashiwa,J,413954,
+Tokyo,J,9272740,
+Hachioji,J,577513,
+Machida,J,432348,
+Yokohama,J,3724844,
+Kawasaki,J,1475213,
+Sagamihara,J,720780,
+Yokosuka,J,406586,
+Fujisawa,J,423894,
+Niigata,J,810157,
+Toyama,J,418686,
+Kanazawa,J,465699,
+Fukui,J,265904,
+Kofu,J,193125,
+Nagano,J,377598,
+Gifu,J,406735,
+Shizuoka,J,704989,
+Hamamatsu,J,797980,
+Nagoya,J,2295638,
+Toyota,J,422542,
+Tsu,J,279886,
+Otsu,J,340973,
+Kyoto,J,1475183,
+Osaka,J,2691185,
+Sakai,J,839310,
+Higashiosaka,J,502784,
+Hirakata,J,404152,
+Kobe,J,1537272,
+Himeji,J,535664,
+Nishinomiya,J,487850,
+Amagasaki,J,452563,
+Nara,J,,
+Wakayama,J,364154,
+Tottori,J,193717,
+Matsue,J,206230,
+Okayama,J,719474,
+Kurashiki,J,477118,
+Hiroshima,J,1194034,
+Fukuyama,J,464811,
+Yamaguchi,J,197422,
+Tokushima,J,258554,
+Takamatsu,J,420748,
+Matsuyama,J,514865,
+Kochi,J,337190,
+Fukuoka,J,1538681,
+Kitakyushu,J,961286,
+Saga,J,236372,
+Nagasaki,J,429508,
+Kumamoto,J,740822,
+Oita,J,478146,
+Miyazaki,J,401138,
+Kagoshima,J,599814,
+Naha,J,319435,
+San Fernando,RP,97677,
+San Carlos,RP,188571,
+Tuguegarao,RP,126021,
+Tarlac,RP,273096,24
+Cabanatuan,RP,289172,
+Mabalacat,RP,250631,
+Angeles,RP,411634,
+Malolos,RP,252074,19
+San Jose Del Monte,RP,574089,100
+Rodriguez,RP,360602,
+San Mateo,RP,252527,
+Antipolo,RP,776386,156
+Cainta,RP,322128,
+Taytay,RP,319104,
+Binangonan,RP,282474,
+Bacoor,RP,600609,7
+Imus,RP,403785,
+General Trias,RP,314303,22
+Dasmarinas,RP,659019,
+San Pedro,RP,325809,
+BiÃ±an,RP,333028,
+Santa Rosa,RP,353767,
+Cabuyao,RP,308745,
+Calamba,RP,454486,
+San Pablo,RP,266068,
+Lipa,RP,332386,
+Batangas,RP,249453,10
+Lucena,RP,266248,15
+Legazpi,RP,196639,
+Iloilo,RP,447992,
+Roxas,RP,167003,
+Bacolod,RP,561875,10
+Cebu,RP,922611,
+Lapu-Lapu,RP,408112,
+Mandaue,RP,362654,
+Toledo,RP,170335,
+Tagbilaran,RP,105051,
+Tacloban,RP,242089,2
+Pagadian,RP,130008,100
+Zamboanga,RP,695176,16
+Cagayan De Oro,RP,675950,10
+Iligan,RP,299054,10
+Valencia,RP,192993,373
+Davao,RP,1325168,22.3
+Tagum,RP,214380,
+Koronadal,RP,76924,100
+General Santos,RP,474395,15
+Valenzuela,RP,620422,38
+Marikina,RP,450741,14.7
+Malabon,RP,365525,
+Kalookan,RP,1583978,
+Quezon City,RP,2936116,17
+Manila,RP,1660714,16
+Mandaluyong,RP,386276,
+Pasig,RP,755300,
+Makati,RP,582602,15.4
+Pasay,RP,416522,
+Taguig,RP,804915,16
+ParaÃ±aque,RP,665822,12
+Las PiÃ±as,RP,588894,
+Muntinlupa,RP,504509,16
+Baguio,RP,345366,1540
+Cotabato,RP,299438,
+Marawi,RP,201785,700
+Jolo,RP,125564,10
+Butuan,RP,202641,1
+Calapan,RP,133893,
+Puerto Princesa,RP,191738,
+Thai Nguyen,VN,249004,
+Ha Long,VN,270054,
+Cam Pha,VN,182137,70
+Hanoi,VN,3605364,19
+Haiphong,VN,841520,
+Nam Dinh,VN,179229,
+Vinh,VN,230439,
+Da Nang,VN,988561,
+Hue,VN,351456,
+Nha Trang,VN,285788,
+Qui Nhon,VN,263892,
+Buon Ma Thuot,VN,245951,536
+Thanh Pho Ho Chi Minh,VN,7004921,19
+Vung Tau,VN,341552,
+Bien Hoa,VN,830829,
+Can Tho,VN,812088,0.5
+Long Xuyen,VN,239588,0.5
+Rach Gia,VN,211351,0.5
+Phnom Penh,K,2189460,12
+Battambang,K,151827,39
+Siem Reap,K,225607,18
+Vientiane,LAO,620157,174
+Chiang Mai,THA,336007,323
+Nakhon Ratchasima,THA,213577,
+Nakhon Sawan,THA,89682,33
+Bangkok,THA,8305218,2
+Nonthaburi,THA,415138,
+Khon Kaen,THA,416475,
+Nakhon Si Thammarat,THA,105592,9
+Songkhla,THA,183666,11
+Samut Prakan,THA,681000,
+Chon Buri,THA,321149,
+Phuket,THA,258480,6
+Johor Bahru,MAL,497067,36.88
+Alor Setar,MAL,405523,7
+Kota Bahru,MAL,233673,
+Melaka,MAL,484855,
+Seremban,MAL,246441,79
+Kuantan,MAL,427515,21.95
+Ipoh,MAL,657892,21.95
+Taiping,MAL,183320,
+Kangar,MAL,,
+Georgetown,MAL,708127,
+Kota Kinabalu,MAL,452058,
+Tawau,MAL,397673,
+Sandakan,MAL,276791,12
+Kuching Utara,MAL,570407,27
+Sibu,MAL,167427,8
+Petaling Jaya,MAL,613977,
+Shah Alam,MAL,541306,
+Klang,MAL,744062,
+Kuala Terengganu,MAL,250528,
+Kuala Lumpur,MAL,1588750,21.95
+Labuan,MAL,,
+Putrajaya,MAL,,
+Bandar Seri Begawan,BRU,266682,9
+Singapore,SGP,5685807,
+Banda Aceh,RI,223446,2
+Medan,RI,2097610,2.5
+Pematang Siantar,RI,234698,
+Binjai,RI,246154,28
+Padang,RI,833562,5
+Pekanbaru,RI,897767,12
+Dumai,RI,253803,
+Jambi,RI,531857,16
+Palembang,RI,1455284,8
+Lubuk Linggau,RI,201308,
+Bengkulu,RI,308544,2
+Bandar Lampung,RI,881801,15
+Pangkal Pinang,RI,174758,13
+Tanjung Pinang,RI,,18
+Batam,RI,944285,
+Jakarta,RI,9607787,8
+Bandung,RI,2394873,768
+Bogor,RI,950334,265
+Cirebon,RI,296389,
+Sukabumi,RI,298681,584
+Bekasi,RI,2334871,11
+Depok,RI,1738570,50
+Tasikmalaya,RI,635464,
+Cimahi,RI,541177,768
+Semarang,RI,1555984,4
+Surakarta,RI,499337,
+Pekalongan,RI,281434,
+Tegal,RI,239599,5
+Yogyakarta,RI,388627,113
+Surabaya,RI,2765487,5
+Malang,RI,820243,476
+Probolinggo,RI,217062,
+Kediri,RI,268507,3
+Serang,RI,577785,39
+Tangerang,RI,1798601,
+Tangerang Selatan,RI,1290322,
+Cilegon,RI,374559,
+Denpasar,RI,788589,4
+Mataram,RI,402843,26
+Kupang,RI,336239,62
+Pontianak,RI,554764,1
+Palangkaraya,RI,220962,5
+Bandjarmasin,RI,625481,1
+Samarinda,RI,727500,8
+Balikpapan,RI,557579,1
+Tanjung Selor,RI,,24
+Tarakan,RI,178854,24
+Manado,RI,410481,5
+Palu,RI,336532,118
+Makassar,RI,1338663,5
+Kendari,RI,289966,5
+Gorontalo,RI,153036,9
+Mamuju,RI,,390
+Ambon,RI,331254,3
+Ternate,RI,,
+Manokwari,RI,136302,37
+Jayapura,RI,256705,20
+Merauke,RI,86782,5
+Dili,TL,244584,
+Lae,PNG,148934,8
+Port Moresby,PNG,318128,35
+Buka,PNG,,5
+Honiara,SOL,130176,29
+Port Vila,VU,49528,
+Noumea,NCL,94285,20
+Newcastle,AUS,505489,9
+Sydney,AUS,4959107,3
+Wollongong,AUS,312167,5
+Darwin,AUS,132921,
+Brisbane,AUS,2495825,
+Gold Coast,AUS,718772,
+Townsville,AUS,184271,
+Toowoomba,AUS,140303,691
+Sunshine Coast,AUS,353906,
+Cairns,AUS,155529,
+Adelaide,AUS,1359087,43
+Hobart,AUS,218386,54
+Melbourne,AUS,4901863,31
+Geelong,AUS,287704,
+Ballarat,AUS,111348,441
+Bendigo,AUS,103575,213
+Perth,AUS,2099530,2
+Canberra,AUS,431611,577
+Flying Fish Cove,CX,,
+West Island,CC,,
+Kingston,NF,,
+Wellington,NZ,210200,10
+Auckland,NZ,1420600,5
+Hamilton,NZ,168600,40
+Christchurch,NZ,372500,100
+Dunedin,NZ,105000,
+Koror,PAL,9564,10
+Ngerulmud,PAL,271,60
+Saipan,MP,43385,60
+HagÃ¥tÃ±a,GU,,5
+Palikir,FSM,6647,20
+Majuro,MH,23225,
+Yaren,NAU,,
+Tarawa,KIR,63439,
+Funafuti,TUV,6320,
+Fakaofo,TOK,490,
+Apia,WS,36735,2
+Pago Pago,AS,,9
+Mata-Utu,WF,,
+Suva,FJI,185913,
+Nukualofa,TO,21185,3
+Alofi,NU,,21
+Avarua,CK,,
+Papeete,PF,,10
+Rikitea,PF,,10
+Adamstown,PN,50,60
+Al Qahirah,ET,9293612,23
+Al-QÄhirah al-JadÄ«dah,ET,302926,270
+Al Iskandariyah,ET,5107530,5
+Al Jizah,ET,4212750,19
+Bur Said,ET,760152,3
+Al Minya,ET,254523,47
+As Suways,ET,740874,5
+Hurghada,ET,195675,14
+Marsa Matruh,ET,355616,30
+Damanhur,ET,278413,18
+Al Mansurah,ET,570271,12
+Tanta,ET,528672,12
+Al Mahallah al Kubra,ET,543271,26
+Al Ismailiyah,ET,397446,13
+Shibin al Kawm,ET,249611,9
+Banha,ET,174518,19
+Shubra al Khimah,ET,1187747,16
+Az Zaqaziq,ET,396852,
+Aswan,ET,337472,194
+Asyut,ET,480516,70
+Bani Suwayf,ET,246395,16
+Al Fayyum,ET,489377,23
+Qina,ET,241422,75
+Al Uqsur,ET,250704,76
+Sawhaj,ET,248174,61
+Al-Arish,ET,191584,32
+Dumyat,ET,289833,5
+MadÄ«nat ''Ashirh min-Ramaá¸Än,ET,226953,
+Tripoli,LAR,1170000,81
+Benghazi,LAR,630000,2
+Misratah,LAR,350000,9
+Tunis,TN,637568,4
+Sfax,TN,280566,
+Sousse,TN,221715,
+Banzart,TN,138430,
+Al-QayrawÄn,TN,139070,
+Algiers,DZ,2364230,100
+Annaba,DZ,342703,20
+Batna,DZ,289504,1048
+BÃ©char,DZ,165241,747
+Sidi Bel AbbÃ«s,DZ,210146,470
+Skikda,DZ,182903,18
+TÃ©bessa,DZ,194461,858
+Oran,DZ,803329,60
+Constantine,DZ,448028,694
+SÃ©tif,DZ,252127,1096
+Blida,DZ,331779,260
+BejaÃ¯a,DZ,176139,949
+Mostaganem,DZ,162885,104
+Ech Chelif,DZ,155134,114
+Tlemcen,DZ,173531,842
+Tougourt,DZ,143270,62
+GhardaÃ¯a,DZ,142913,572
+El Djelfa,DZ,265833,
+Biskra,DZ,204661,87
+Laghouat,DZ,134372,769
+Tamanrasset,DZ,92635,1320
+Guelmim,MA,118318,
+Agadir,MA,421844,74
+KÃ©nitra,MA,431282,
+Settat,MA,142250,
+Marrakech,MA,928850,466
+Oujda,MA,494252,470
+Nador,MA,161726,42
+Casablanca,MA,3359818,10
+Mohammedia,MA,208612,10
+Rabat,MA,577827,20
+SalÃ©,MA,890403,
+Temara,MA,313510,
+Safi,MA,308508,20
+Beni Mellal,MA,192676,619
+MeknÃ¨s,MA,520428,552
+FÃ¨s,MA,1112072,412
+Al Hoceima,MA,,20
+Tanger,MA,947952,80
+TÃ©touan,MA,380787,90
+El Aaiun,WSA,183691,
+Bamako,RMM,1810366,350
+Gao,RMM,,226
+Kayes,RMM,126319,33
+Kidal,RMM,,
+Koulikoro,RMM,,
+Kalabancoro,RMM,96173,
+Kati,RMM,84500,481
+Mopti,RMM,120786,268
+SÃ©gou,RMM,133501,294
+Sikasso,RMM,226618,410
+Koutiala,RMM,141444,
+Tombouctou,RMM,54629,261
+Atar,RIM,,270
+Kiffa,RIM,60005,94
+Aleg,RIM,,
+Nouadhibou,RIM,118167,1
+Kaedi,RIM,49152,23
+Selibaby,RIM,,
+Nema,RIM,,280
+Aioun,RIM,,
+Akjoujt,RIM,,
+Nouakchott,RIM,958399,7
+Tidjikja,RIM,,
+Zouerate,RIM,,380
+Rosso,RIM,51026,6
+Dakar,SN,2646503,10
+Rufisque,SN,221066,
+Diourbel,SN,133705,12
+Fatick,SN,,11
+Kaolack,SN,233708,
+Kolda,SN,,34
+Louga,SN,104349,44
+Saint-Louis,SN,209752,
+Tambacounda,SN,107293,24
+ThiÃ¨s,SN,317763,
+M''Bour,SN,232777,14
+Ziguinchor,SN,205294,12
+Matam,SN,,
+Sedhiou,SN,,
+Kedougou,SN,,
+Kaffrine,SN,,
+Banjul,WAG,31301,5
+Serekunda,WAG,362986,10
+Bissau,GUB,387909,10
+Conakry,RG,1667864,
+N''ZÃ©rÃ©korÃ©,RG,194178,
+Freetown,SLE,1055964,26
+Bo,SLE,223075,15
+Kenema,SLE,225110,180
+Monrovia,LB,1010970,
+Ouagadougou,BF,2415266,305
+Bobo Dioulasso,BF,904920,445
+Yamoussoukro,CI,212670,
+Abidjan,CI,4395243,18
+San-Pedro,CI,174287,10
+OdiennÃ©,CI,,451
+Gagnoa,CI,167900,
+Daloa,CI,266324,299
+Dimbokro,CI,,
+Dabou,CI,,
+Man,CI,149041,330
+Abengourou,CI,,
+Korhogo,CI,245239,380
+BouakÃ©,CI,536719,312
+SÃ©guÃ©la,CI,46189,
+Bondoukou,CI,88783,343
+Kumasi,GH,2035064,305
+Obuasi,GH,143644,101
+Sunyani,GH,74240,303
+Techiman,GH,67241,
+Goaso,GH,,
+Cape Coast,GH,169894,5
+Koforidua,GH,120971,238
+Accra,GH,2070463,61
+Tema,GH,139784,5
+Ashiaman,GH,190972,39
+Tamale,GH,371351,151
+Nalerigu,GH,,335
+Damongo,GH,,217
+Bolgatanga,GH,65549,177
+Wa,GH,71051,305
+Ho,GH,104532,150
+Dambai,GH,,111
+Takoradi,GH,539548,10
+Wiawso,GH,,60
+LomÃ©,RT,2173800,10
+Kara,RT,115400,312
+SokodÃ©,RT,109200,340
+Porto-Novo,BEN,264320,38
+Cotonou,BEN,679012,51
+Godomey,BEN,253262,30
+Parakou,BEN,255478,324
+Umuahia,NGR,330000,
+Aba,NGR,1040000,205
+Abuja,NGR,2940000,840
+Yola,NGR,400000,599
+Uyo,NGR,,65
+Awka,NGR,104682,
+Onitsha,NGR,1080000,
+Bauchi,NGR,415000,616
+Yenagoa,NGR,330000,
+Makurdi,NGR,365000,
+Maiduguri,NGR,1065000,320
+Calabar,NGR,475000,32
+Asaba,NGR,,45
+Sapele,NGR,310000,
+Warri,NGR,915000,
+Abakaliki,NGR,,
+Benin,NGR,1495000,80
+Ado-Ekiti,NGR,465000,455
+Ilawe-Ekiti,NGR,104049,
+Effon-Alaiye,NGR,158977,
+Enugu,NGR,885000,202
+Gombe,NGR,460000,
+Owerri,NGR,540000,
+Dutse,NGR,,
+Kaduna,NGR,1685000,250
+Zaria,NGR,895000,
+Kano,NGR,4155000,488
+Katsina,NGR,505000,
+Birnin Kebbi,NGR,,
+Lokoja,NGR,,
+Okene,NGR,,
+Ilorin,NGR,960000,
+Lagos,NGR,13745000,41
+Ikorodu,NGR,184674,
+Lafia,NGR,108000,
+Minna,NGR,345000,
+Bida,NGR,330000,
+Abeokuta,NGR,595000,66
+Ijebu-Ode,NGR,124313,70
+Akure,NGR,575000,
+Ondo,NGR,305000,
+Owo,NGR,157181,
+Ikare,NGR,410000,
+Oshogbo,NGR,820000,
+Ilesha,NGR,290000,
+Ede,NGR,142363,269
+Ife,NGR,505000,
+Ikire,NGR,111435,
+Ibadan,NGR,3160000,239
+Oyo,NGR,385000,
+Ogbomosho,NGR,780000,329
+Iseyin,NGR,170936,
+Jos,NGR,925000,1217
+Port Harcourt,NGR,2075000,18
+Sokoto,NGR,815000,
+Jalingo,NGR,,
+Damaturu,NGR,141897,
+Gusau,NGR,132393,450
+Agadez,RN,118240,520
+Diffa,RN,,286
+Dosso,RN,,227
+Maradi,RN,267249,385
+Tessaoua,RN,172796,
+AguiÃ©,RN,152788,434
+Niamey,RN,1026848,207
+Tahoua,RN,149498,389
+Birni-N''Konni,RN,149414,
+IllÃ©la,RN,142214,
+Tillaberi,RN,,
+Zinder,RN,322935,479
+Tanout,RN,154238,
+Magaria,RN,130707,
+N''Djamena,TCH,951418,298
+Moundou,TCH,137251,413
+Port Sudan,SUD,394561,
+Al Gazira,SUD,289482,
+Khartoum,SUD,1410858,382
+Omdurman,SUD,1849659,178
+Khartoum North,SUD,1012211,
+Al Gedaref,SUD,269395,634
+Rabak,SUD,123890,
+KÅ«stÄ«,SUD,213080,390
+Ad-DamazÄ«n,SUD,,
+DunqulÄ,SUD,,
+Al-Junaynah,SUD,134264,800
+Al-FÅ«lah,SUD,,
+Nyala,SUD,492984,673
+KÄduqlÄ«,SUD,,
+Kassala,SUD,298529,
+Ad-DÄmir,SUD,,
+Atbara,SUD,112021,350
+SannÄr,SUD,123158,
+Al Fashir,SUD,217827,
+Al Ubayyiá¸‘,SUD,345126,609
+Aá¸-á¸Œuayn,SUD,137103,
+ZÄlingay,SUD,,
+Juba,SSD,525923,550
+Bangui,RCA,812407,369
+Bimbo,RCA,348802,338
+NgaoundÃ©rÃ©,CAM,152698,1212
+YaoundÃ©,CAM,2765600,726
+Bertoua,CAM,88462,717
+Maroua,CAM,201371,384
+Douala,CAM,2768400,13
+Garoua,CAM,235996,249
+Bamenda,CAM,269530,1614
+Bafoussam,CAM,239287,1521
+Ebolowa,CAM,,636
+Buea,CAM,90088,870
+Malabo,GQ,257000,30
+Bata,GQ,290000,5
+Libreville,G,703940,10
+Port-Gentil,G,136462,3
+Franceville,G,110568,295
+Dolisie,RCB,128032,290
+Sibiti,RCB,,440
+Madingou,RCB,,190
+Kinkala,RCB,,407
+Djambala,RCB,,622
+Owando,RCB,,325
+Ewo,RCB,,534
+Ouesso,RCB,,340
+Impfondo,RCB,,326
+Brazzaville,RCB,1408150,320
+Pointe-Noire,RCB,829134,14
+Kinshasa,CGO,11575000,240
+Matadi,CGO,306053,146
+Boma,CGO,,61
+Kenge,CGO,,
+Bandundu,CGO,,321
+Kikwit,CGO,397737,452
+Inongo,CGO,,
+Luebo,CGO,,420
+Tshikapa,CGO,621820,485
+Kananga,CGO,1169000,608
+Mbuji-Mayi,CGO,2007000,584
+Kabinda,CGO,219154,1100
+Mwene-Ditu,CGO,,910
+Lodja,CGO,,500
+Kindu,CGO,,504
+Bukavu,CGO,832000,1498
+Uvira,CGO,378736,746
+Goma,CGO,461306,1489
+Butembo,CGO,217625,1381
+Bunia,CGO,366126,1277
+Isiro,CGO,,750
+Kisangani,CGO,1040000,401
+Buta,CGO,,405
+Gbadolite,CGO,,400
+Lisala,CGO,,400
+Gemena,CGO,,400
+Mbandaka,CGO,345663,370
+Boende,CGO,,375
+Kalemi,CGO,,
+Kamina,CGO,,1100
+Kolwezi,CGO,454287,1448
+Lubumbashi,CGO,2015000,1208
+Likasi,CGO,460959,1318
+Cabinda,ANG,598210,24
+Mbanza Congo,ANG,173850,408
+Uige,ANG,493529,858
+Luanda,ANG,6760439,6
+Ndalatando,ANG,165839,670
+Sumbe,ANG,267693,10
+Malanje,ANG,486870,1155
+Lucapa,ANG,146719,880
+Saurimo,ANG,423548,1081
+Benguela,ANG,513441,39
+Lobito,ANG,324050,139
+Huambo,ANG,665574,1721
+Cuito,ANG,424169,
+Luena,ANG,350803,1350
+Menongue,ANG,306622,1354
+MoÃ§Ã¢medes,ANG,282056,9
+Lubango,ANG,731575,1720
+Caxito,ANG,217929,84
+Ngiva,ANG,,1098
+Windhoek,NAM,325858,1655
+Rundu,NAM,63431,1095
+Walvis Bay,NAM,62096,10
+Gaborone,RB,244107,1014
+Francistown,RB,102444,1001
+Nelson Mandela Bay,RSA,1152115,89
+Buffalo City,RSA,755200,135
+Bhisho,RSA,77682,435
+Mangaung,RSA,747431,1395
+Tshwane,RSA,2921488,1339
+Johannesburg,RSA,4434827,1753
+Tembisa,RSA,463109,1549
+Emfuleni,RSA,721662,1468
+Ekurhuleni - Germiston,RSA,3178471,
+Msunduzi,RSA,618536,596
+eThekwini,RSA,3442361,6
+Mbombela,RSA,588794,
+Kimberley,RSA,,1184
+Polokwane,RSA,628999,1312
+Mmabatho,RSA,,
+Cape Town,RSA,3740026,30
+Maseru,LS,330760,1600
+Mbabane,SD,60691,1243
+Pemba,MOC,200529,30
+Xai-Xai,MOC,132884,9
+Inhambane,MOC,82119,3
+Chimoio,MOC,363336,664
+Nacala Porto,MOC,206449,
+Matola,MOC,1032197,3
+Nampula,MOC,663212,360
+Lichinga,MOC,242204,1398
+Beira,MOC,592090,14
+Tete,MOC,307338,140
+Quelimane,MOC,246915,2
+Maputo,MOC,1080277,47
+Harare,ZW,1491740,1490
+Bulawayo,ZW,665940,1358
+Chitungwiza,ZW,371244,1448
+Kabwe,Z,299206,1183
+Ndola,Z,624579,
+Kitwe,Z,661901,
+Chingola,Z,299936,1363
+Mufulira,Z,200182,
+Luanshya,Z,211966,1225
+Chipata,Z,,1140
+Mansa,Z,,
+Lusaka,Z,2204059,1279
+Kasama,Z,,
+Solwezi,Z,,1235
+Livingstone,Z,,986
+Mongu,Z,,
+Chinsali,Z,,
+Lilongwe,MW,9893188,1050
+Blantyre,MW,800264,1039
+Dodoma,EAT,410956,1120
+Arusha,EAT,416442,1387
+Moshi,EAT,184292,700
+Tanga,EAT,221127,25
+Morogoro,EAT,305840,
+Kibaha,EAT,128488,
+Dar es Salaam,EAT,4364541,12
+Lindi,EAT,,
+Mtwara,EAT,100626,
+Songea,EAT,203309,
+Iringa,EAT,151345,
+Mbeya,EAT,385279,1697
+Vwawa,EAT,,1602
+Singida,EAT,85242,
+Tabora,EAT,160608,1241
+Sumbawanga,EAT,124204,
+Kigoma-Ujiji,EAT,215458,773
+Shinyanga,EAT,103795,
+Bukoba,EAT,128796,
+Mwanza,EAT,706453,1140
+Musoma,EAT,134327,1189
+Zanzibar,EAT,501459,
+Babati,EAT,,
+Njombe,EAT,,
+Mpanda,EAT,,
+Bariadi,EAT,,
+Geita,EAT,,
+Bujumbura,BI,497166,774
+Gitega,BI,41944,1725
+Kigali,RWA,859332,1567
+Gisenyi,RWA,136830,1481
+Kampala,EAU,1507114,1190
+Mukono,EAU,162744,1200
+Jinja,EAU,76057,1143
+Gulu,EAU,149802,1078
+Mbarara,EAU,195160,1473
+Mombasa,EAK,1208333,50
+Malindi,EAK,119859,
+Nairobi,EAK,4397073,1661
+Kisumu,EAK,397957,1131
+Nakuru,EAK,570674,1850
+Eldoret,EAK,475716,
+Mogadishu,SO,2425000,
+Kismayo,SO,358000,10
+Hargeisa,SO,760000,1330
+Berbera,SO,374000,3
+Djibouti,DJI,475322,
+Addis Ababa,ETH,3860000,2355
+Aysaita,ETH,,300
+Bahir Dar,ETH,350000,1800
+Gondar,ETH,466000,2133
+Dese,ETH,270400,2470
+Asosa,ETH,,1570
+Dire Dawa,ETH,343000,1276
+Gambella,ETH,,526
+Harar,ETH,157000,1885
+Adama,ETH,456000,1712
+Jimma,ETH,250900,1780
+Bishoftu,ETH,207400,1920
+Jijiga,ETH,198000,1609
+Mekele,ETH,457900,2084
+Arba Minch,ETH,201000,1285
+Awasa,ETH,422200,1708
+Bonga,ETH,,1714
+Asmara,ER,896000,2326
+Massaua,ER,47709,8
+Praia,CV,137868,25
+SÃ£o TomÃ©,STP,66888,137
+Victoria,SY,24087,10
+Moroni,COM,74749,29
+Mamoutzou,MYT,,
+Antsiranana,RM,129320,
+Antananarivo,RM,1274225,1276
+Antsirabe,RM,246354,1500
+Fianarantsoa,RM,191776,1200
+Majunga,RM,246022,
+Tamatave,RM,325857,
+Toliara,RM,168756,
+Port Louis,MS,149226,
+Saint-Denis,RE,145347,25
+Saint-Paul,RE,103916,3
+Jamestown,HELX,,25
+Nuuk,GL,18326,5
+Saint-Pierre,SPM,5618,10
+Hamilton,BM,,
+Edmonton,CDN,932546,645
+Calgary,CDN,1237656,1045
+Vancouver,CDN,631486,10
+Burnaby,CDN,223218,30
+Victoria,CDN,,23
+Saanich,CDN,,23
+Surrey,CDN,468251,25
+Richmond,CDN,190473,5
+Winnipeg,CDN,663617,230
+Fredericton,CDN,56224,20
+St. John''s,CDN,106172,10
+Gander,CDN,,128
+Yellowknife,CDN,19234,206
+Halifax,CDN,390096,10
+Ottawa,CDN,883391,70
+Vaughan,CDN,288301,
+Gatineau,CDN,265349,
+London,CDN,366151,251
+Hamilton,CDN,519949,75
+Toronto,CDN,2615060,76
+Kitchener,CDN,219153,
+Windsor,CDN,210891,190
+Oshawa,CDN,149607,106
+Mississauga,CDN,713443,156
+Brampton,CDN,523911,218
+Markham,CDN,301709,200
+Burlington,CDN,175779,74
+Saint Catharines,CDN,131400,97.8
+Thunder Bay,CDN,108359,199
+Charlottetown,CDN,34562,10
+Laval,CDN,401553,91
+MontrÃ©al,CDN,1649519,30
+Quebec,CDN,516622,98
+Longueuil,CDN,231409,
+Regina,CDN,193100,577
+Saskatoon,CDN,222189,481.5
+Whitehorse,CDN,23276,670
+Iqaluit,CDN,6699,
+Birmingham,USA,200733,196
+Mobile,USA,187041,3
+Montgomery,USA,200603,73
+Huntsville,USA,215006,193
+Anchorage,USA,291247,31
+Juneau,USA,32255,17
+Phoenix,USA,1608139,331
+Tucson,USA,542629,728
+Mesa,USA,504258,379
+Glendale,USA,248325,351
+Scottsdale,USA,241361,383
+Tempe,USA,180587,348
+Chandler,USA,275987,370
+Peoria,USA,190985,348
+Gilbert,USA,267918,377
+Little Rock,USA,202591,102
+Los Angeles,USA,3898747,93
+San Diego,USA,1386932,129
+San Jose,USA,1013240,25
+San Francisco,USA,873965,16
+Long Beach,USA,466742,9
+Fresno,USA,542107,94
+Sacramento,USA,524943,9
+Oakland,USA,440646,13
+Santa Ana,USA,310227,35
+Anaheim,USA,346824,48
+Riverside,USA,314998,252
+Stockton,USA,320804,4
+Bakersfield,USA,403455,123
+Huntington Beach,USA,198711,12
+Fremont,USA,230504,17
+San Bernardino,USA,222101,321
+Modesto,USA,218464,27
+Chula Vista,USA,275487,20
+Oxnard,USA,202063,16
+Garden Grove,USA,171949,27
+Oceanside,USA,174068,20
+Ontario,USA,175265,306
+Moreno Valley,USA,208634,497
+Torrance,USA,147067,27
+Pomona,USA,151713,259
+Pasadena,USA,138699,263
+Irvine,USA,307670,17
+Sunnyvale,USA,155805,38
+Santa Clarita,USA,228673,368
+Santa Rosa,USA,178127,50
+Hayward,USA,162954,32
+Fullerton,USA,143617,50
+Orange,USA,139911,58
+Rancho Cucamonga,USA,174453,368
+Escondido,USA,151038,197
+Lancaster,USA,173516,719
+Concord,USA,125410,23
+Thousand Oaks,USA,126966,270
+Salinas,USA,163542,16
+Inglewood,USA,107762,40
+El Monte,USA,109450,91
+Vallejo,USA,126090,21
+Simi Valley,USA,126356,234
+Palmdale,USA,169450,810
+Fontana,USA,208393,377
+Berkeley,USA,124321,52
+West Covina,USA,109501,117
+Costa Mesa,USA,111918,30
+Norwalk,USA,102773,28
+Corona,USA,157136,207
+Richmond,USA,116448,14
+Denver,USA,715522,1564
+Colorado Springs,USA,478961,1840
+Aurora,USA,386261,1668
+Lakewood,USA,155984,1682
+Fort Collins,USA,169810,1525
+Bridgeport,USA,148654,1
+Hartford,USA,121054,18
+New Haven,USA,134023,18
+Stamford,USA,135470,7
+Waterbury,USA,114403,82
+Dover,USA,39403,11
+Jacksonville,USA,949611,5
+Miami,USA,442241,2
+Tampa,USA,384959,15
+St. Petersburg,USA,258308,13
+Hialeah,USA,223109,2
+Orlando,USA,307573,25
+Fort Lauderdale,USA,182760,3
+Tallahassee,USA,196169,62
+Hollywood,USA,153067,3
+Coral Springs,USA,134394,4
+Cape Coral,USA,194016,2
+Pembroke Pines,USA,171178,2
+Clearwater,USA,117292,9
+Port St. Lucie,USA,204851,5
+Atlanta,USA,498715,225
+Columbus,USA,206922,74
+Savannah,USA,147780,15
+Augusta,USA,202081,41
+Athens,USA,127315,194
+Honolulu,USA,350964,6
+Hilo,USA,44186,18
+Boise City,USA,235684,832
+Chicago,USA,2746388,181
+Rockford,USA,148655,222
+Springfield,USA,114394,170
+Naperville,USA,149540,214
+Joliet,USA,150362,187
+Indianapolis,USA,887642,218
+Fort Wayne,USA,263886,247
+Evansville,USA,117298,118
+South Bend,USA,103453,211
+Des Moines,USA,214113,291
+Cedar Rapids,USA,137710,247
+Wichita,USA,397532,396
+Kansas City,USA,156607,265
+Overland Park,USA,197238,331
+Topeka,USA,126587,288
+Louisville,USA,633045,142
+Lexington,USA,322570,298
+Frankfort,USA,28602,155
+New Orleans,USA,383997,-2
+Baton Rouge,USA,227470,17
+Shreveport,USA,187593,44
+Lafayette,USA,121374,11
+Portland,USA,68408,19
+Baltimore,USA,585708,10
+Annapolis,USA,40812,12
+Boston,USA,675647,43
+Worcester,USA,206518,146
+Cambridge,USA,118403,12
+Lowell,USA,115554,31
+Detroit,USA,639111,183
+Grand Rapids,USA,198917,195
+Warren,USA,139387,191
+Flint,USA,81252,229
+Lansing,USA,112644,262
+Sterling Heights,USA,134346,187
+Ann Arbor,USA,123851,256
+Minneapolis,USA,429954,253
+St. Paul,USA,311527,214
+Jackson,USA,153701,85
+St. Louis,USA,301578,142
+Independence,USA,123011,315
+Jefferson City,USA,43228,192
+Helena,USA,32091,1181
+Billings,USA,117116,952
+Omaha,USA,486051,332
+Lincoln,USA,291082,359
+Las Vegas,USA,641903,610
+North Las Vegas,USA,262527,672
+Reno,USA,264165,1374
+Henderson,USA,317610,569
+Carson City,USA,58639,1464
+Paradise,USA,191238,627
+Enterprise,USA,221831,778
+Sunrise Manor,USA,205618,555
+Spring Valley,USA,215597,721
+Manchester,USA,115644,64
+Newark,USA,311549,4
+Jersey City,USA,292449,6
+Paterson,USA,159732,34
+Elizabeth,USA,137298,5
+Trenton,USA,90871,15
+Camden,USA,71791,5
+Albuquerque,USA,564559,1620
+Santa Fe,USA,87505,2195
+New York,USA,8804190,10
+Buffalo,USA,278349,183
+Rochester,USA,211328,154
+Yonkers,USA,211569,25
+Syracuse,USA,148620,116
+Albany,USA,99224,60
+Charlotte,USA,874579,229
+Raleigh,USA,467665,96
+Greensboro,USA,299035,273
+Winston-Salem,USA,249545,296
+Durham,USA,283506,123
+Fayetteville,USA,208501,80
+Bismarck,USA,73622,514
+Fargo,USA,125990,276
+Cleveland,USA,372624,199
+Cincinnati,USA,309317,147
+Toledo,USA,270871,187
+Akron,USA,190469,306
+Dayton,USA,137644,225
+Oklahoma City,USA,681054,366
+Tulsa,USA,413066,220
+Eugene,USA,176654,131
+Salem,USA,175535,47
+Philadelphia,USA,1603767,12
+Pittsburgh,USA,302971,233
+Erie,USA,93928,199
+Allentown,USA,125845,103
+Harrisburg,USA,50099,98
+Providence,USA,190934,23
+Columbia,USA,136632,89
+Charleston,USA,150227,4
+Sioux Falls,USA,192517,448
+Pierre,USA,14091,443
+Memphis,USA,633104,103
+Nashville-Davidson,USA,689447,182
+Knoxville,USA,190740,270
+Chattanooga,USA,181099,206
+Clarksville,USA,166722,145
+Houston,USA,2304580,13
+San Antonio,USA,1434625,198
+Dallas,USA,1304379,131
+El Paso,USA,678815,1140
+Austin,USA,961855,149
+Fort Worth,USA,918915,199
+Arlington,USA,394266,184
+Corpus Christi,USA,317863,2
+Lubbock,USA,257141,993
+Plano,USA,285494,206
+Garland,USA,246018,168
+Irving,USA,256684,147
+Amarillo,USA,200393,1099
+Laredo,USA,255205,134
+Brownsville,USA,186738,10
+Mesquite,USA,150108,151
+Beaumont,USA,115282,5
+Grand Prairie,USA,196100,157
+Abilene,USA,125182,524
+Waco,USA,138486,143
+Frisco,USA,200509,236
+McAllen,USA,142210,37
+Wichita Falls,USA,102316,289
+Odessa,USA,114428,884
+Salt Lake City,USA,199723,1288
+Montpelier,USA,8074,183
+Virginia Beach,USA,459470,3
+Norfolk,USA,238005,2.13
+Chesapeake,USA,249422,9
+Newport News,USA,186247,4.5
+Hampton,USA,137148,3
+Alexandria,USA,159467,12
+Seattle,USA,737015,50
+Spokane,USA,228989,562
+Tacoma,USA,219346,74
+Vancouver,USA,190915,52
+Olympia,USA,55605,29
+Milwaukee,USA,577222,188
+Madison,USA,269840,266
+Green Bay,USA,107395,177
+Cheyenne,USA,65132,1848
+Washington,USA,689545,7
+Aguascalientes,MEX,863893,1888
+Mexicali,MEX,854186,8
+Tijuana,MEX,1810645,20
+Ensenada,MEX,330652,16
+La Paz,MEX,250141,27
+Cabo San Lucas,MEX,202694,10
+Campeche,MEX,249623,10
+Tuxtla GutiÃ©rrez,MEX,578830,522
+Tapachula,MEX,217550,177
+Chihuahua,MEX,925762,1415
+Ciudad JuÃ¡rez,MEX,1501551,1137
+Saltillo,MEX,864431,1600
+TorreÃ³n,MEX,690193,1120
+Monclova,MEX,237169,620
+Colima,MEX,146965,305
+GÃ³mez Palacio,MEX,301742,
+Durango,MEX,616068,1880
+LeÃ³n,MEX,1579803,1815
+Salamanca,MEX,160682,1721
+Irapuato,MEX,452090,1724
+Celaya,MEX,378143,1767
+Guanajuato,MEX,72237,
+Acapulco,MEX,658609,30
+Chilpancingo,MEX,225728,1253
+Pachuca,MEX,297848,2432
+Guadalajara,MEX,1385621,1566
+Tlaquepaque,MEX,650123,1870
+Zapopan,MEX,1257547,1571
+Tonala,MEX,442440,
+Toluca,MEX,910608,2660
+Ciudad LÃ³pez Mateos,MEX,523065,2280
+Tlalnepantla,MEX,658907,2250
+ChimalhuacÃ¡n,MEX,703215,2240
+Buenavista,MEX,216776,
+CuautitlÃ¡n Izcalli,MEX,515353,2280
+NezahualcÃ³yotl,MEX,1072676,2220
+Ecatepec,MEX,1643623,2250
+Naucalpan,MEX,911168,2300
+Morelia,MEX,743275,1921
+Uruapan,MEX,299523,1620
+Zamora de Hidalgo,MEX,154546,1580
+Cuernavaca,MEX,341029,1510
+Jiutepec,MEX,174629,1355
+Cuautla Morelos,MEX,157336,1294
+Tepic,MEX,371387,920
+Monterrey,MEX,1142952,540
+San Pedro Garza GarcÃ­a,MEX,132128,540
+Guadalupe,MEX,635862,500
+San NicolÃ¡s de los Garzas,MEX,412199,512
+Ciudad Santa Catarina,MEX,268347,680
+Apodaca,MEX,536436,405
+Escobedo,MEX,454967,510
+Oaxaca,MEX,258913,1555
+Puebla,MEX,1542232,2135
+TehuacÃ¡n,MEX,293825,
+QuerÃ©taro,MEX,794789,1820
+CancÃºn,MEX,888797,10
+Chetumal,MEX,169028,10
+Playa del Carmen,MEX,304942,10
+San Luis PotosÃ­,MEX,845941,1850
+Soledad de Graciano Sanchez,MEX,310192,
+CuliacÃ¡n,MEX,808416,54
+MazatlÃ¡n,MEX,441975,
+Los Mochis,MEX,298009,10
+Hermosillo,MEX,855563,210
+Ciudad ObregÃ³n,MEX,329404,40
+Nogales,MEX,261137,1199
+Villahermosa,MEX,340060,20
+Ciudad Victoria,MEX,332100,316
+Tampico,MEX,297373,10
+Matamoros,MEX,510739,9
+Reynosa,MEX,691557,33
+Nuevo Laredo,MEX,416055,
+Ciudad Madero,MEX,205933,
+Tlaxcala,MEX,14692,2239
+CÃ³rdoba,MEX,139075,860
+Xalapa-EnrÃ­quez,MEX,443063,1417
+Coatzacoalcos,MEX,212540,10
+Poza Rica de Hidalgo,MEX,180507,50
+MinatitlÃ¡n,MEX,149162,20
+Orizaba,MEX,120500,
+Veracruz,MEX,537963,
+Boca del RÃ­o,MEX,126507,16
+MÃ©rida,MEX,921771,10
+Zacatecas,MEX,138444,2440
+Ciudad de MÃ©xico,MEX,8843706,2250
+Belmopan,BZ,26906,76
+Belize City,BZ,66083,0.5
+Ciudad de Guatemala,GCA,923392,1500
+Mixco,GCA,463019,1600
+Villa Nueva,GCA,426316,1330
+CobÃ¡n,GCA,212047,1320
+Quetzaltenango,GCA,180706,2234
+San Salvador,ES,354174,658
+Soyapango,ES,268228,648
+Mejicanos,ES,157188,712
+Ciudad Delgado,ES,129965,603
+Apopa,ES,143718,443
+Santa Ana,ES,245421,665
+Santa Tecla,ES,126353,931
+San Miguel,ES,218410,129
+La Ceiba,HN,176212,3
+Trujillo,HN,,
+Comayagua,HN,92833,594
+Santa Rosa de Copan,HN,48485,1168
+San Pedro Sula,HN,598519,83
+Puerto Cortes,HN,90161,
+Choloma,HN,163818,
+Choluteca,HN,86179,
+DanlÃ­,HN,64976,814
+Yuscaran,HN,,1007
+Tegucigalpa,HN,996658,990
+Puerto Lempira,HN,,
+La Esperanza,HN,,1700
+Roatan,HN,,
+La Paz,HN,,750
+Gracias,HN,,800
+Nueva Ocotepeque,HN,,
+Juticalpa,HN,56302,410
+Santa Barbara,HN,,
+Nacaome,HN,,
+El Progreso,HN,114934,
+Yoro,HN,,
+Managua,NIC,1028808,83
+LeÃ³n,NIC,201100,86
+Chinandega,NIC,133361,50
+Masaya,NIC,166588,242
+Granada,NIC,123697,
+Matagalpa,NIC,150643,680
+Tipitapa,NIC,130627,50
+Jinotega,NIC,123548,1000
+EstelÃ­,NIC,122924,843.97
+San JosÃ©,CR,288054,1172
+Alajuela,CR,254886,952
+Cartago,CR,147898,1435
+Heredia,CR,123616,1150
+Liberia,CR,62987,144
+Puntarenas,CR,115019,5
+LimÃ³n,CR,94415,1
+Bocas del Toro,PA,,
+Changuinola,PA,98310,
+PenonomÃ©,PA,85737,70
+ColÃ³n,PA,206553,9
+El Porvenir,PA,,
+David,PA,144858,-6
+La Palma,PA,,
+Chitre,PA,48479,24
+Las Tablas,PA,,42
+PanamÃ¡ City,PA,880691,2
+San Miguelito,PA,315019,
+La Chorrera,PA,118521,
+ArraijÃ¡n,PA,96676,
+Santiago,PA,88997,101
+UniÃ³n ChocÃ³,PA,,
+Chichica,PA,,
+Nassau,BS,248948,10
+Grand Turk,TUCA,,
+George Town,CYM,34399,3
+CamagÃ¼ey,C,300958,95
+Ciego de Ãvila,C,114829,55
+Cienfuegos,C,147110,25
+La Habana,C,2106146,59
+Bayamo,C,157027,55
+Manzanillo,C,98904,25
+GuantÃ¡namo,C,217135,46
+HolguÃ­n,C,287881,5
+Victoria de las Tunas,C,162957,92
+Matanzas,C,133769,20
+Pinar del RÃ­o,C,140230,61
+Sancti SpÃ­ritus,C,104968,51
+Santiago de Cuba,C,431272,82
+Santa Clara,C,211925,125
+Nueva Gerona,C,,17
+Artemisa,C,,50
+San JosÃ© de las Lajas,C,,135
+Kingston,JA,662426,9
+Port-au-Prince,RH,875978,98
+Carrefour,RH,430250,39
+Delmas,RH,359451,194
+PÃ©tion-Ville,RH,271175,
+CitÃ© Soleil,RH,241055,
+GonaÃ¯ves,RH,228725,6
+Cap-HaÃ¯tien,RH,155505,1
+Santo Domingo,DOM,2581827,14
+Santiago,DOM,550753,175
+Puerto Plata,DOM,118496,8
+San Juan,PR,322854,8
+Ponce,PR,107951,16
+BayamÃ³n,PR,165368,16
+Carolina,PR,138304,16
+Charlotte Amalie,VIRG,8194,
+Road Town,BVI,,
+The Valley,AXA,,9
+Marigot,SMAR,5700,
+Philipsburg,SX,1327,
+Gustavia,SBAR,2299,
+Basseterre,KN,11400,15
+St. John''s,AG,22219,1
+Plymouth,MNTS,0,
+Brades,MNTS,449,
+Basse-Terre,GP,,
+Roseau,WD,14725,43
+Fort-de-France,MQ,100000,
+Castries,WL,3661,2
+Bridgetown,BDS,88529,4
+Kingstown,WV,12909,
+Saint George''s,WG,38249,
+Port-of-Spain,TT,37074,3
+Kralendijk,NLB,,
+Willemstad,CUR,136660,
+Oranjestad,ARU,81915,4
+Puerto Ayacucho,YV,,74
+Barcelona,YV,410643,13
+Puerto La Cruz,YV,205866,10
+San Fernando,YV,,47
+Maracay,YV,459007,436
+Barinas,YV,215452,187
+Ciudad BolÃ­var,YV,307713,54
+Ciudad Guayana,YV,692215,13
+Valencia,YV,1210612,520
+Puerto Cabello,YV,177751,3
+Guacara,YV,141762,438
+San Carlos,YV,,152
+Tucupita,YV,,5
+Santa Ana de Coro,YV,158763,17
+San Juan,YV,,428.5
+Barquisimeto,YV,875788,566
+MÃ©rida,YV,230120,
+Los Teques,YV,183142,
+Petare,YV,520982,900
+Baruta,YV,213373,1178
+Guarenas,YV,170204,374
+MaturÃ­n,YV,298581,67
+La Asuncion,YV,,67
+Porlamar,YV,97667,10
+Acarigua,YV,129237,195
+Guanare,YV,129751,183
+CumanÃ¡,YV,208114,43
+San CristÃ³bal,YV,328636,860
+Trujillo,YV,,
+San Felipe,YV,,250
+Maracaibo,YV,1372724,6
+Cabimas,YV,207996,3
+Caracas,YV,1975786,900
+La Guaira,YV,,
+Catia La Mar,YV,118466,
+Georgetown,GUY,118363,-2
+Paramaribo,SME,240924,3
+Cayenne,GF,57229,
+Leticia,CO,33503,96
+MedellÃ­n,CO,2382399,1495
+Bello,CO,536400,1310
+ItagÃ¼i,CO,247918,1550
+Envigado,CO,215766,1675
+ApartadÃ³,CO,98454,30
+Arauca,CO,74195,125
+Barranquilla,CO,1205284,18
+Soledad,CO,602644,5
+Malambo,CO,119878,
+Cartagena,CO,876885,2
+MaganguÃ©,CO,92316,49
+Tunja,CO,163894,2820
+Manizales,CO,405234,2160
+Florencia,CO,147939,242
+Yopal,CO,143619,350
+PopayÃ¡n,CO,266561,1760
+Valledupar,CO,431794,180
+QuibdÃ³,CO,113124,43
+MonterÃ­a,CO,388499,18
+Soacha,CO,655025,2566
+Inirida,CO,20279,95
+Riohacha,CO,126103,5
+San Jose del Guaviare,CO,36354,185
+Neiva,CO,335994,442
+Santa Marta,CO,455299,6
+CiÃ©naga,CO,104999,10
+Villavicencio,CO,492052,467
+Pasto,CO,308095,2527
+CÃºcuta,CO,865445,320
+Mocoa,CO,38457,604
+Armenia,CO,287245,1551
+Pereira,CO,385838,1411
+Dosquebradas,CO,204280,1460
+San Andres,CO,41400,
+BogotÃ¡,CO,7387400,2640
+Bucaramanga,CO,570752,959
+Floridablanca,CO,280025,925
+Barrancabermeja,CO,177272,75
+GirÃ³n,CO,141107,706
+Sincelejo,CO,249323,213
+IbaguÃ©,CO,492554,1285
+Cali,CO,2172527,1018
+Buenaventura,CO,235064,2
+Palmira,CO,275254,1001
+TuluÃ¡,CO,174951,960
+Cartago,CO,131641,917
+Mitu,CO,9746,183
+Puerto Carreno,CO,14974,51
+Quito,EC,1619146,2850
+Guayaquil,EC,2291158,4
+Cuenca,EC,331888,2560
+Santo Domingo de los Colorados,EC,305632,625
+Chachapoyas,PE,,2335
+Chimbote,PE,366160,4
+Huaraz,PE,120928,3052
+Abancay,PE,,2377
+Arequipa,PE,1050849,2335
+Ayacucho,PE,218777,2761
+Cajamarca,PE,210586,2750
+Callao,PE,438326,5
+Cusco,PE,457398,3399
+Huancavelica,PE,,3676
+HuÃ¡nuco,PE,203809,1880
+Ica,PE,284981,406
+Chincha Alta,PE,193450,97
+Huancayo,PE,420306,3259
+Trujillo,PE,908209,34
+Chiclayo,PE,624246,27
+Lima,PE,8574974,161
+Iquitos,PE,404545,104
+Puerto Maldonado,PE,,183
+Moquegua,PE,,1410
+Cerro de Pasco,PE,,4330
+Piura,PE,477605,
+Sullana,PE,194025,
+Talara,PE,92491,11
+Puno,PE,133199,3830
+Juliaca,PE,283872,3825
+Moyobamba,PE,,
+Tarapoto,PE,151743,356
+Tacna,PE,300963,552
+Tumbes,PE,101490,6
+Pucallpa,PE,353891,154
+La Paz,BOL,764617,3640
+El Alto,BOL,848840,4150
+Oruro,BOL,264683,3735
+PotosÃ­,BOL,189652,4067
+Santa Cruz de la Sierra,BOL,1453549,416
+Montero,BOL,109518,357
+Trinidad,BOL,106422,130
+Cobija,BOL,,280
+Sucre,BOL,259388,2810
+Cochabamba,BOL,630587,2558
+Sacaba,BOL,169494,2719
+Quillacollo,BOL,137029,2425
+Tarija,BOL,205346,1854
+Iquique,RCH,294949,1
+Antofagasta,RCH,352638,40
+Calama,RCH,158487,2260
+CopiapÃ³,RCH,150962,391
+La Serena,RCH,401938,28
+ValparaÃ­so,RCH,901468,10
+Rancagua,RCH,290864,572
+Talca,RCH,237295,102
+ConcepciÃ³n,RCH,722929,12
+Los Angeles,RCH,143563,139
+Chillan,RCH,191983,124
+Temuco,RCH,278513,360
+Puerto Montt,RCH,171136,14
+Osorno,RCH,147826,35
+Coyhaique,RCH,,302
+Punta Arenas,RCH,125932,34
+Santiago,RCH,6160040,521
+Valdivia,RCH,150727,5
+Arica,RCH,204078,2
+La Plata,RA,654324,26
+La Matanza,RA,1775816,26
+MorÃ³n,RA,321109,26
+Lomas de Zamora,RA,616279,20
+Mar del Plata,RA,618989,38
+Quilmes,RA,582943,17
+LanÃºs,RA,459263,9
+General San MartÃ­n,RA,414196,472
+Avellaneda,RA,342677,2
+San Isidro,RA,292878,15
+BahÃ­a Blanca,RA,301572,20
+San Fernando del Valle de Catamarca,RA,159703,500
+Resistencia,RA,290723,20
+Comodoro Rivadavia,RA,175196,61
+Rawson,RA,122531,4
+CÃ³rdoba,RA,1317298,390
+RÃ­o Cuarto,RA,157010,452
+Corrientes,RA,346334,52
+ParanÃ¡,RA,247139,77
+Concordia,RA,149450,21
+Formosa,RA,222226,57
+San Salvador de Jujuy,RA,257970,1259
+Santa Rosa,RA,102860,175
+La Rioja,RA,178872,515
+Mendoza,RA,114893,746.5
+Posadas,RA,275028,120
+NeuquÃ©n,RA,231198,260
+Viedma,RA,52789,12
+Bariloche,RA,109305,893
+Salta,RA,520683,1152
+San Juan,RA,109123,640
+San Luis,RA,169947,709
+RÃ­o Gallegos,RA,95796,20
+Santa Fe,RA,391164,25
+Rosario,RA,948312,31
+Santiago del Estero,RA,252192,187
+Ushuaia,RA,56825,23
+San Miguel de TucumÃ¡n,RA,548866,431
+Buenos Aires,RA,2890151,25
+AsunciÃ³n,PY,521600,43
+Ciudad del Este,PY,304300,34
+Montevideo,ROU,1318755,43
+Salto,ROU,104011,48
+Rio Branco,BR,308545,143
+MaceiÃ³,BR,932129,7
+Arapiraca,BR,181481,264
+MacapÃ¡,BR,381214,12
+Manaus,BR,1792881,53
+Salvador,BR,2674923,8
+Feira de Santana,BR,510635,286
+IlhÃ©us,BR,155281,52
+VitÃ³ria da Conquista,BR,274739,923
+Itabuna,BR,199643,54
+Juazeiro,BR,160775,1098
+JequiÃ©,BR,139426,215
+CamaÃ§ari,BR,231973,36
+Alagoinhas,BR,124042,132
+Lauro de Freitas,BR,163449,30
+Barreiras,BR,123741,454
+Porto Seguro,BR,104078,4
+Fortaleza,BR,2452185,21
+Caucaia,BR,290220,29
+Juazeiro do Norte,BR,240128,350
+MaracanaÃº,BR,207623,
+Sobral,BR,166310,70
+VitÃ³ria,BR,327801,4
+Cariacica,BR,337643,
+Vila Velha,BR,412575,4
+Serra,BR,406450,301
+Cachoeiro de Itapemirim,BR,173589,22
+Colatina,BR,98395,71
+Linhares,BR,121567,33
+GoiÃ¢nia,BR,1297076,749
+AnÃ¡polis,BR,328755,1017
+LuziÃ¢nia,BR,162807,930
+Rio Verde,BR,163540,748
+Aparecida de GoiÃ¢nia,BR,455193,808
+Ãguas Lindas de GoiÃ¡s,BR,159138,1100
+SÃ£o LuÃ­s,BR,958522,4
+Imperatriz,BR,234547,95
+Caxias,BR,118534,
+Timon,BR,135133,
+Codo,BR,118072,47
+CuiabÃ¡,BR,540814,165
+VÃ¡rzea Grande,BR,248704,198
+RondonÃ³polis,BR,188028,227
+Campo Grande,BR,776242,592
+Dourados,BR,181005,430
+Belo Horizonte,BR,2375151,760
+Contagem,BR,601400,858
+Betim,BR,375331,817
+RibeirÃ£o das Neves,BR,294153,
+IbiritÃ©,BR,158590,872
+UberlÃ¢ndia,BR,587266,863
+Juiz de Fora,BR,510378,678
+Montes Claros,BR,344427,678
+Uberaba,BR,289376,823
+Governador Valadares,BR,253300,170
+Ipatinga,BR,236968,220
+DivinÃ³polis,BR,207516,712
+Sete Lagoas,BR,208956,766.73
+TeÃ³filo Otoni,BR,110076,334
+PoÃ§os de Caldas,BR,148722,1196
+Patos de Minas,BR,127724,815
+Barbacena,BR,115568,1160
+SabarÃ¡,BR,123084,705
+Varginha,BR,119061,980
+Santa Luzia,BR,202378,751
+BelÃ©m,BR,1381475,10
+Ananindeua,BR,470819,20
+SantarÃ©m,BR,215790,51
+MarabÃ¡,BR,186270,170
+Castanhal,BR,153378,141
+JoÃ£o Pessoa,BR,720785,40
+Campina Grande,BR,367209,560
+Santa Rita,BR,103717,
+Curitiba,BR,1751907,934.6
+Ponta Grossa,BR,304733,975
+SÃ£o JosÃ© dos Pinhais,BR,236895,906
+Londrina,BR,493520,610
+MaringÃ¡,BR,350653,515
+Foz do IguaÃ§u,BR,253962,164
+Cascavel,BR,270049,781
+Colombo,BR,203203,950
+Guarapuava,BR,152993,1120
+ParanaguÃ¡,BR,135386,5
+Apucarana,BR,114098,840
+Recife,BR,1537704,10
+Cabo de Santo Agostinho,BR,167783,29
+JaboatÃ£o,BR,630595,10
+Paulista,BR,300466,13
+Caruaru,BR,279589,545
+Petrolina,BR,219215,376
+VitÃ³ria de Santo AntÃ£o,BR,113429,147
+Camaragibe,BR,144466,55
+Garanhuns,BR,115356,896
+Olinda,BR,370332,16
+Teresina,BR,767557,87
+ParnaÃ­ba,BR,137485,5
+Rio de Janeiro,BR,6320446,31
+SÃ£o GonÃ§alo,BR,998999,19
+Duque de Caxias,BR,852138,7
+Nova IguaÃ§u,BR,787563,25
+NiterÃ³i,BR,487562,3
+Campos dos Goytacazes,BR,418725,14
+Belford Roxo,BR,469332,38
+SÃ£o JoÃ£o de Meriti,BR,458673,19
+PetrÃ³polis,BR,281286,838
+Volta Redonda,BR,257686,390
+MagÃ©,BR,215236,5
+ItaboraÃ­,BR,215412,17
+MacaÃ©,BR,202859,2
+Cabo Frio,BR,140486,4
+Nova Friburgo,BR,159372,846
+Barra Mansa,BR,176193,389
+Angra dos Reis,BR,163290,1378
+TeresÃ³polis,BR,146207,871
+NilÃ³polis,BR,157425,14
+Queimados,BR,137962,29
+Mesquita,BR,168376,
+Natal,BR,803739,30
+MossorÃ³,BR,237241,20
+Parnamirim,BR,202456,
+Porto Alegre,BR,1409351,10
+Alvorada,BR,195673,17
+Sapucaia do Sul,BR,130469,35
+Caxias do Sul,BR,419406,817
+Pelotas,BR,306193,7
+Canoas,BR,323827,8
+Santa Maria,BR,248347,113
+Novo Hamburgo,BR,234798,57
+ViamÃ£o,BR,224943,9
+SÃ£o Leopoldo,BR,213238,26
+Rio Grande,BR,189429,6
+Passo Fundo,BR,180120,687
+Uruguaiana,BR,117415,66
+BagÃ©,BR,97765,212
+Santa Cruz do Sul,BR,105190,122
+GravataÃ­,BR,243497,26
+Porto Velho,BR,390733,83
+Boa Vista,BR,277799,76
+Joinville,BR,497850,4
+FlorianÃ³polis,BR,405286,3
+Blumenau,BR,294773,21
+CriciÃºma,BR,189630,46
+SÃ£o JosÃ©,BR,207312,3
+Lages,BR,153937,916
+ItajaÃ­,BR,173452,2
+ChapecÃ³,BR,168113,
+SÃ£o Paulo,BR,11152344,760
+SÃ£o Caetano do Sul,BR,149263,744
+SÃ£o Bernardo do Campo,BR,752658,762
+Santo AndrÃ©,BR,676407,700
+Osasco,BR,666740,760
+TaboÃ£o da Serra,BR,244528,
+Santa BÃ¡rbara d''Oeste,BR,178596,570
+Guarulhos,BR,1221979,759
+Itaquaquecetuba,BR,321770,790
+Embu,BR,240230,775
+SumarÃ©,BR,238470,583
+HortolÃ¢ndia,BR,192692,587
+Campinas,BR,1061540,555
+SÃ£o JosÃ© dos Campos,BR,617106,660
+RibeirÃ£o Preto,BR,602966,546
+Sorocaba,BR,580655,601
+Santos,BR,419086,2
+MauÃ¡,BR,417064,818
+CarapicuÃ­ba,BR,369584,
+SÃ£o JosÃ© do Rio Preto,BR,383490,489
+Diadema,BR,386089,780
+Mogi das Cruzes,BR,357313,780
+Piracicaba,BR,356743,547
+JundiaÃ­,BR,354204,761
+Bauru,BR,338184,537
+SÃ£o Vicente,BR,331817,6
+Franca,BR,313046,1040
+Limeira,BR,267785,588
+GuarujÃ¡,BR,290696,4
+TaubatÃ©,BR,272673,
+Suzano,BR,253240,749.43
+MarÃ­lia,BR,207021,660
+Presidente Prudente,BR,203375,
+Barueri,BR,240749,719
+SÃ£o Carlos,BR,213061,856
+JacareÃ­,BR,208297,567
+Americana,BR,209654,569
+Araraquara,BR,202730,664
+AraÃ§atuba,BR,178077,390
+Rio Claro,BR,181720,613
+Itapevi,BR,200769,741
+Cotia,BR,201150,853
+Itu,BR,144269,583
+Indaiatuba,BR,199592,624
+Ferraz de Vasconcelos,BR,160754,759
+Mogi GuaÃ§u,BR,130295,591
+Pindamonhangaba,BR,141708,540
+Itapetininga,BR,131050,656
+BraganÃ§a Paulista,BR,142255,817
+Francisco Morato,BR,154158,792
+Barretos,BR,108686,530
+JaÃº,BR,126943,541
+Catanduva,BR,111914,503
+Botucatu,BR,122678,804
+RibeirÃ£o Pires,BR,113068,800
+Itapecerica da Serra,BR,151349,920
+Praia Grande,BR,262051,3
+Aracaju,BR,571149,4
+Nossa Senhora do Socorro,BR,155823,36
+Palmas,BR,221742,230
+AraguaÃ­na,BR,142925,227
+BrasÃ­lia,BR,2482210,1172
+Stanley,FALK,,

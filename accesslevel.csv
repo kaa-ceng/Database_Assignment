@@ -1,0 +1,4 @@
+level_id,name,max_parallel_sessions
+1,Basic,2
+2,Advanced,4
+3,Premium,6
