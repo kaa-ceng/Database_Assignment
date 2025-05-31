@@ -1,0 +1,18 @@
+                       Table "public.country"
+   Column   |         Type          | Collation | Nullable | Default 
+------------+-----------------------+-----------+----------+---------
+ name       | character varying(50) |           | not null | 
+ code       | character varying(4)  |           | not null | 
+ capital    | character varying(50) |           |          | 
+ area       | numeric               |           |          | 
+ population | numeric               |           |          | 
+Indexes:
+    "country_pkey" PRIMARY KEY, btree (code)
+    "country_name_key" UNIQUE CONSTRAINT, btree (name)
+Referenced by:
+    TABLE "city" CONSTRAINT "city_country_fkey" FOREIGN KEY (country) REFERENCES country(code)
+    TABLE "economy" CONSTRAINT "economy_country_fkey" FOREIGN KEY (country) REFERENCES country(code)
+    TABLE "encompasses" CONSTRAINT "encompasses_country_fkey" FOREIGN KEY (country) REFERENCES country(code)
+    TABLE "religion" CONSTRAINT "religion_country_fkey" FOREIGN KEY (country) REFERENCES country(code)
+    TABLE "spoken" CONSTRAINT "spoken_country_fkey" FOREIGN KEY (country) REFERENCES country(code)
+
